@@ -1,0 +1,183 @@
+{
+  "id": "w1-c2-l4",
+  "chapterId": "w1-c2",
+  "number": 4,
+  "title": { "en": "He Is, She Is", "sv": "Han är, Hon är" },
+  "titleGreek": "Αυτός είναι, Αυτή είναι",
+  "estimatedMinutes": 15,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ είναι σε ένα μικρό πάρτι στο ξενοδοχείο. Γνωρίζει νέους ανθρώπους.",
+        "english": "Alex is at a small party at the hotel. He meets new people.",
+        "swedish": "Alex är på en liten fest på hotellet. Han träffar nya människor.",
+        "highlightWords": [],
+        "speakerNote": "Narrator"
+      },
+      {
+        "greek": "Νίκος: Αλεξ, αυτός είναι ο Γιάννης. Είναι φίλος μου. Και αυτή είναι η Μαρία. Είναι φίλη μου.",
+        "english": "Nikos: Alex, this is Yannis. He is my friend. And this is Maria. She is my friend.",
+        "swedish": "Nikos: Alex, det här är Yannis. Han är min vän. Och det här är Maria. Hon är min vännina.",
+        "highlightWords": ["v-aftos-001", "v-afti-001", "v-filos-001", "v-fili-001"],
+        "speakerNote": "Nikos introduces his friends"
+      },
+      {
+        "greek": "Αλεξ: Γεια σας! Εγώ είμαι ο Αλεξ. Γιάννης: Γεια σου! Αυτό είναι ωραίο πάρτι!",
+        "english": "Alex: Hello everyone! I am Alex. Yannis: Hello! This is a nice party!",
+        "swedish": "Alex: Hej allihopa! Jag är Alex. Yannis: Hej! Det här är en trevlig fest!",
+        "highlightWords": ["v-afto-001", "v-einai-3rd-001"],
+        "speakerNote": "Alex meets Nikos's friends"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Ποιος είναι ο Γιάννης;",
+        "question": { "en": "Who is Yannis?", "sv": "Vem är Yannis?" },
+        "answerGreek": "Είναι φίλος του Νίκου.",
+        "answer": { "en": "He is Nikos's friend.", "sv": "Han är Nikos vän." }
+      },
+      {
+        "questionGreek": "Ποια είναι η Μαρία;",
+        "question": { "en": "Who is Maria?", "sv": "Vem är Maria?" },
+        "answerGreek": "Είναι φίλη του Νίκου.",
+        "answer": { "en": "She is Nikos's friend.", "sv": "Hon är Nikos vännina." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-einai-3rd-001",
+    "title": { "en": "He/She/It Is: Αυτός/Αυτή/Αυτό είναι", "sv": "Han/Hon/Det är: Αυτός/Αυτή/Αυτό είναι" },
+    "explanation": {
+      "en": "Now you know THREE forms! Είμαι (I am), Είσαι (you are), and now Είναι (he/she/it is). Notice: αυτός = he/this (masculine), αυτή = she/this (feminine), αυτό = it/this (neuter). Also: φίλος = male friend, φίλη = female friend — Greek marks gender!",
+      "sv": "Nu kan du TRE former! Είμαι (jag är), Είσαι (du är), och nu Είναι (han/hon/det är). Observera: αυτός = han/den här (maskulinum), αυτή = hon/den här (femininum), αυτό = det/det här (neutrum). Dessutom: φίλος = manlig vän, φίλη = kvinnlig vän — grekiska markerar kön!"
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "He is / This is (masculine)", "sv": "Han är / Det här är (maskulinum)" }, "greek": "Αυτός είναι", "translation": { "en": "He is / This is", "sv": "Han är / Det här är" } },
+      { "step": 2, "instruction": { "en": "She is / This is (feminine)", "sv": "Hon är / Det här är (femininum)" }, "greek": "Αυτή είναι", "translation": { "en": "She is / This is", "sv": "Hon är / Det här är" } },
+      { "step": 3, "instruction": { "en": "It is / This is (neuter)", "sv": "Det är / Det här är (neutrum)" }, "greek": "Αυτό είναι", "translation": { "en": "It is / This is", "sv": "Det är / Det här är" } },
+      { "step": 4, "instruction": { "en": "Male friend", "sv": "Manlig vän" }, "greek": "φίλος", "translation": { "en": "friend (male)", "sv": "vän (man)" } },
+      { "step": 5, "instruction": { "en": "Female friend", "sv": "Kvinnlig vän" }, "greek": "φίλη", "translation": { "en": "friend (female)", "sv": "vän (kvinna)" } }
+    ],
+    "examples": [
+      {
+        "greek": "Αυτός είναι ο Γιάννης.",
+        "translation": { "en": "This is Yannis.", "sv": "Det här är Yannis." },
+        "breakdown": [
+          { "part": "Αυτός", "label": { "en": "This/He (masculine)", "sv": "Den här/Han (maskulinum)" } },
+          { "part": "είναι", "label": { "en": "is", "sv": "är" } },
+          { "part": "ο Γιάννης", "label": { "en": "Yannis (with masc. article)", "sv": "Yannis (med mask. artikel)" } }
+        ]
+      },
+      {
+        "greek": "Αυτή είναι η Μαρία.",
+        "translation": { "en": "This is Maria.", "sv": "Det här är Maria." },
+        "breakdown": [
+          { "part": "Αυτή", "label": { "en": "This/She (feminine)", "sv": "Den här/Hon (femininum)" } },
+          { "part": "είναι", "label": { "en": "is", "sv": "är" } },
+          { "part": "η Μαρία", "label": { "en": "Maria (with fem. article)", "sv": "Maria (med fem. artikel)" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Swedish has 'han/hon/den/det' for he/she/it. Greek uses αυτός/αυτή/αυτό. The good news: είναι is ONE form for he, she, AND it — just like Swedish 'är'. You only need to change the pronoun, not the verb!"
+  },
+  "drills": [
+    {
+      "id": "d-w1c2l4-001",
+      "type": "cloze",
+      "prompt": { "en": "Fill in: This is Yannis (male).", "sv": "Fyll i: Det här är Yannis (man)." },
+      "context": "___ είναι ο Γιάννης.",
+      "blankedWord": "Αυτός",
+      "correctAnswer": "Αυτός",
+      "acceptableAnswers": ["Αυτός", "αυτός"],
+      "hint": { "en": "Masculine 'this/he'...", "sv": "Maskulint 'den här/han'..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l4-002",
+      "type": "cloze",
+      "prompt": { "en": "Fill in: This is Maria (female).", "sv": "Fyll i: Det här är Maria (kvinna)." },
+      "context": "___ είναι η Μαρία.",
+      "blankedWord": "Αυτή",
+      "correctAnswer": "Αυτή",
+      "acceptableAnswers": ["Αυτή", "αυτή"],
+      "hint": { "en": "Feminine 'this/she'...", "sv": "Feminint 'den här/hon'..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l4-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: He is a friend. (male friend)", "sv": "Översätt till grekiska: Han är en vän. (manlig vän)" },
+      "correctAnswer": "Αυτός είναι φίλος.",
+      "acceptableAnswers": ["Αυτός είναι φίλος.", "Αυτός είναι φίλος", "Είναι φίλος."],
+      "hint": { "en": "Male friend = φίλος...", "sv": "Manlig vän = φίλος..." },
+      "context": "He is a friend.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l4-004",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: She is a friend. (female friend)", "sv": "Översätt till grekiska: Hon är en vännina. (kvinnlig vän)" },
+      "correctAnswer": "Αυτή είναι φίλη.",
+      "acceptableAnswers": ["Αυτή είναι φίλη.", "Αυτή είναι φίλη", "Είναι φίλη."],
+      "hint": { "en": "Female friend = φίλη...", "sv": "Kvinnlig vän = φίλη..." },
+      "context": "She is a friend.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l4-005",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Αυτό είναι ωραίο!",
+      "correctAnswer": "This is nice!",
+      "acceptableAnswers": ["This is nice!", "This is nice", "It is nice!", "That is nice!"],
+      "hint": { "en": "Αυτό = this/it (neuter), ωραίο = nice...", "sv": "Αυτό = det här/det (neutrum), ωραίο = fint..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l4-006",
+      "type": "substitution",
+      "prompt": { "en": "Change from 'he' to 'she':", "sv": "Byt från 'han' till 'hon':" },
+      "promptGreek": "Αυτός είναι φίλος.",
+      "sourcePattern": "Αυτός είναι φίλος",
+      "targetPattern": "Αυτή είναι φίλη",
+      "correctAnswer": "Αυτή είναι φίλη.",
+      "acceptableAnswers": ["Αυτή είναι φίλη.", "Αυτή είναι φίλη"],
+      "hint": { "en": "Change αυτός → αυτή and φίλος → φίλη.", "sv": "Byt αυτός → αυτή och φίλος → φίλη." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l4-007",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: Translate to Greek: I am from Sweden.", "sv": "Repetition: Översätt till grekiska: Jag är från Sverige." },
+      "correctAnswer": "Είμαι από τη Σουηδία.",
+      "acceptableAnswers": ["Είμαι από τη Σουηδία.", "Είμαι από τη Σουηδία", "Εγώ είμαι από τη Σουηδία."],
+      "hint": { "en": "Είμαι + από + τη Σουηδία...", "sv": "Είμαι + από + τη Σουηδία..." },
+      "context": "I am from Sweden.",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l4-008",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'My name is...' in Greek?", "sv": "Repetition: Hur säger man 'Jag heter...' på grekiska?" },
+      "correctAnswer": "Με λένε...",
+      "acceptableAnswers": ["Με λένε...", "Με λένε", "με λένε"],
+      "hint": { "en": "Literally 'They call me...'", "sv": "Bokstavligen 'De kallar mig...'" },
+      "context": "My name is...",
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c2l4-001", "d-w1c2l4-002", "d-w1c2l4-003", "d-w1c2l4-004"]
+  },
+  "newVocabulary": [
+    "v-aftos-001",
+    "v-afti-001",
+    "v-afto-001",
+    "v-einai-3rd-001",
+    "v-filos-001",
+    "v-fili-001"
+  ],
+  "newGrammarIds": ["gr-einai-3rd-001"],
+  "idiom": null
+}

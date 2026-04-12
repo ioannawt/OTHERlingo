@@ -1,0 +1,179 @@
+{
+  "id": "w1-c2-l1",
+  "chapterId": "w1-c2",
+  "number": 1,
+  "title": { "en": "I Am...", "sv": "Jag är..." },
+  "titleGreek": "Είμαι...",
+  "estimatedMinutes": 15,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ είναι στο ξενοδοχείο. Στη ρεσεψιόν, μια γυναίκα χαμογελάει.",
+        "english": "Alex is at the hotel. At the reception, a woman smiles.",
+        "swedish": "Alex är på hotellet. I receptionen ler en kvinna.",
+        "highlightWords": ["v-xenodocheio-001"],
+        "speakerNote": "Narrator sets the scene"
+      },
+      {
+        "greek": "Αλεξ: Γεια σου! Είμαι ο Αλεξ. Ρεσεψιονίστ: Γεια σου! Εγώ είμαι η Ελένη.",
+        "english": "Alex: Hello! I am Alex. Receptionist: Hello! I am Eleni.",
+        "swedish": "Alex: Hej! Jag är Alex. Receptionist: Hej! Jag är Eleni.",
+        "highlightWords": ["v-einai-001", "v-ego-001"],
+        "speakerNote": "Alex introduces himself using είμαι for the first time"
+      },
+      {
+        "greek": "Αλεξ: Εσύ είσαι η ρεσεψιονίστ; Ελένη: Ναι! Είμαι η ρεσεψιονίστ. Καλώς ήρθες!",
+        "english": "Alex: You are the receptionist? Eleni: Yes! I am the receptionist. Welcome!",
+        "swedish": "Alex: Du är receptionisten? Eleni: Ja! Jag är receptionisten. Välkommen!",
+        "highlightWords": ["v-esy-001", "v-eisai-001"],
+        "speakerNote": "Alex tries using είσαι (you are)"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Πώς λένε τη ρεσεψιονίστ;",
+        "question": { "en": "What is the receptionist's name?", "sv": "Vad heter receptionisten?" },
+        "answerGreek": "Τη λένε Ελένη.",
+        "answer": { "en": "Her name is Eleni.", "sv": "Hon heter Eleni." }
+      },
+      {
+        "questionGreek": "Τι λέει ο Αλεξ;",
+        "question": { "en": "What does Alex say?", "sv": "Vad säger Alex?" },
+        "answerGreek": "Είμαι ο Αλεξ.",
+        "answer": { "en": "I am Alex.", "sv": "Jag är Alex." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-einai-basic-001",
+    "title": { "en": "I Am / You Are: Είμαι & Είσαι", "sv": "Jag är / Du är: Είμαι & Είσαι" },
+    "explanation": {
+      "en": "Let's start with just TWO forms of the verb 'to be'. Είμαι (I-meh) = I am. Είσαι (I-seh) = You are. That's it for now! Notice that Greek uses ο before male names and η before female names: Είμαι ο Αλεξ (I am Alex, male), Είμαι η Ελένη (I am Eleni, female).",
+      "sv": "Vi börjar med bara TVÅ former av verbet 'att vara'. Είμαι (I-meh) = Jag är. Είσαι (I-seh) = Du är. Det är allt för nu! Observera att grekiska använder ο före manliga namn och η före kvinnliga namn: Είμαι ο Αλεξ (Jag är Alex, man), Είμαι η Ελένη (Jag är Eleni, kvinna)."
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "I am", "sv": "Jag är" }, "greek": "Εγώ είμαι", "translation": { "en": "I am", "sv": "Jag är" } },
+      { "step": 2, "instruction": { "en": "You are", "sv": "Du är" }, "greek": "Εσύ είσαι", "translation": { "en": "You are", "sv": "Du är" } },
+      { "step": 3, "instruction": { "en": "I am Alex (male name → ο)", "sv": "Jag är Alex (manligt namn → ο)" }, "greek": "Είμαι ο Αλεξ", "translation": { "en": "I am Alex", "sv": "Jag är Alex" } },
+      { "step": 4, "instruction": { "en": "I am Eleni (female name → η)", "sv": "Jag är Eleni (kvinnligt namn → η)" }, "greek": "Είμαι η Ελένη", "translation": { "en": "I am Eleni", "sv": "Jag är Eleni" } }
+    ],
+    "examples": [
+      {
+        "greek": "Εγώ είμαι ο Αλεξ.",
+        "translation": { "en": "I am Alex.", "sv": "Jag är Alex." },
+        "breakdown": [
+          { "part": "Εγώ", "label": { "en": "I (can be omitted)", "sv": "Jag (kan utelämnas)" } },
+          { "part": "είμαι", "label": { "en": "am", "sv": "är" } },
+          { "part": "ο Αλεξ", "label": { "en": "Alex (with masculine article)", "sv": "Alex (med maskulin artikel)" } }
+        ]
+      },
+      {
+        "greek": "Εσύ είσαι η Ελένη;",
+        "translation": { "en": "Are you Eleni?", "sv": "Är du Eleni?" },
+        "breakdown": [
+          { "part": "Εσύ", "label": { "en": "You", "sv": "Du" } },
+          { "part": "είσαι", "label": { "en": "are", "sv": "är" } },
+          { "part": "η Ελένη", "label": { "en": "Eleni (with feminine article)", "sv": "Eleni (med feminin artikel)" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Swedish uses 'är' for everyone — jag är, du är, han är. Greek changes the verb: είμαι (I), είσαι (you). For now, just learn these two. Think of it as: if you see -μαι, it's 'I'. If you see -σαι, it's 'you'."
+  },
+  "drills": [
+    {
+      "id": "d-w1c2l1-001",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the correct form of 'to be':", "sv": "Fyll i rätt form av 'att vara':" },
+      "context": "Εγώ ___ ο Αλεξ.",
+      "blankedWord": "είμαι",
+      "correctAnswer": "είμαι",
+      "acceptableAnswers": ["είμαι", "ειμαι"],
+      "hint": { "en": "Which form goes with 'I' (Εγώ)?", "sv": "Vilken form hör till 'jag' (Εγώ)?" },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l1-002",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the correct form of 'to be':", "sv": "Fyll i rätt form av 'att vara':" },
+      "context": "Εσύ ___ η Ελένη.",
+      "blankedWord": "είσαι",
+      "correctAnswer": "είσαι",
+      "acceptableAnswers": ["είσαι", "εισαι"],
+      "hint": { "en": "Which form goes with 'you' (Εσύ)?", "sv": "Vilken form hör till 'du' (Εσύ)?" },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l1-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: I am Alex.", "sv": "Översätt till grekiska: I am Alex." },
+      "correctAnswer": "Είμαι ο Αλεξ.",
+      "acceptableAnswers": ["Είμαι ο Αλεξ.", "Είμαι ο Αλεξ", "Εγώ είμαι ο Αλεξ.", "Εγώ είμαι ο Αλεξ", "είμαι ο Αλεξ"],
+      "hint": { "en": "Use είμαι + ο (for male name) + name.", "sv": "Använd είμαι + ο (för manligt namn) + namn." },
+      "context": "I am Alex.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l1-004",
+      "type": "substitution",
+      "prompt": { "en": "Change 'I am' to 'You are':", "sv": "Byt 'Jag är' till 'Du är':" },
+      "promptGreek": "Εγώ είμαι ο Αλεξ.",
+      "sourcePattern": "Εγώ είμαι",
+      "targetPattern": "Εσύ είσαι",
+      "correctAnswer": "Εσύ είσαι ο Αλεξ.",
+      "acceptableAnswers": ["Εσύ είσαι ο Αλεξ.", "Εσύ είσαι ο Αλεξ"],
+      "hint": { "en": "'You' is Εσύ, 'are' for you is είσαι.", "sv": "'Du' är Εσύ, 'är' för du är είσαι." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l1-005",
+      "type": "free_typing",
+      "prompt": { "en": "How would you say 'I am Eleni' in Greek? (Eleni is female)", "sv": "Hur säger man 'Jag är Eleni' på grekiska? (Eleni är kvinna)" },
+      "correctAnswer": "Είμαι η Ελένη.",
+      "acceptableAnswers": ["Είμαι η Ελένη.", "Είμαι η Ελένη", "Εγώ είμαι η Ελένη.", "Εγώ είμαι η Ελένη", "είμαι η Ελένη"],
+      "hint": { "en": "Use η (not ο) before female names.", "sv": "Använd η (inte ο) före kvinnliga namn." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l1-006",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Εσύ είσαι η Ελένη;",
+      "correctAnswer": "Are you Eleni?",
+      "acceptableAnswers": ["Are you Eleni?", "Are you Eleni", "You are Eleni?"],
+      "hint": { "en": "Εσύ = You, είσαι = are...", "sv": "Εσύ = Du, είσαι = är..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l1-007",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'Good evening' in Greek?", "sv": "Repetition: Hur säger man 'God kväll' på grekiska?" },
+      "correctAnswer": "Καλησπέρα!",
+      "acceptableAnswers": ["Καλησπέρα!", "Καλησπέρα", "καλησπέρα"],
+      "hint": { "en": "Καλη + σπέρα...", "sv": "Καλη + σπέρα..." },
+      "context": "Good evening",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l1-008",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'please' / 'you're welcome' in Greek?", "sv": "Repetition: Hur säger man 'varsågod' på grekiska?" },
+      "correctAnswer": "παρακαλώ",
+      "acceptableAnswers": ["παρακαλώ", "Παρακαλώ", "παρακαλω"],
+      "hint": { "en": "One word for both 'please' and 'you're welcome'.", "sv": "Ett ord för både 'snälla' och 'varsågod'." },
+      "context": "please / you're welcome",
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c2l1-001", "d-w1c2l1-002", "d-w1c2l1-003"]
+  },
+  "newVocabulary": [
+    "v-einai-001",
+    "v-eisai-001",
+    "v-ego-001",
+    "v-esy-001"
+  ],
+  "newGrammarIds": ["gr-einai-basic-001"],
+  "idiom": null
+}

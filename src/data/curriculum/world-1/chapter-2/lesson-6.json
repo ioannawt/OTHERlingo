@@ -1,0 +1,166 @@
+{
+  "id": "w1-c2-l6",
+  "chapterId": "w1-c2",
+  "number": 6,
+  "title": { "en": "Review: Meeting People", "sv": "Repetition: Att träffa människor" },
+  "titleGreek": "Επανάληψη: Γνωριμίες",
+  "estimatedMinutes": 18,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ είναι σε ένα μικρό πάρτι στο ξενοδοχείο. Γνωρίζει πολλούς ανθρώπο��ς.",
+        "english": "Alex is at a small party at the hotel. He meets many people.",
+        "swedish": "Alex är på en liten fest på hotellet. Han träffar många människor.",
+        "highlightWords": [],
+        "speakerNote": "Narrator"
+      },
+      {
+        "greek": "Αλεξ: Γεια σας! Με λένε Αλεξ. Είμαι από τη Σουηδία. Πώς σας λένε; Σάρα: Γεια σου! Με λένε Σάρα. Είμαι από την Αγγλία. Πώς είσαι; Αλεξ: Είμαι πολύ καλά, ευχαριστώ!",
+        "english": "Alex: Hello everyone! My name is Alex. I am from Sweden. What are your names? Sara: Hello! My name is Sara. I am from England. How are you? Alex: I am very well, thank you!",
+        "swedish": "Alex: Hej allihopa! Jag heter Alex. Jag är från Sverige. Vad heter ni? Sara: Hej! Jag heter Sara. Jag är från England. Hur mår du? Alex: Jag mår mycket bra, tack!",
+        "highlightWords": ["v-me-lene-001", "v-apo-001", "v-kala-001"],
+        "speakerNote": "Alex uses all his introduction phrases naturally"
+      },
+      {
+        "greek": "Νίκος: Αλεξ, αυτός είναι ο Δημήτρης. Είναι φίλος μου. Δημήτρης: Γεια σου, Αλεξ! Χάρηκα! Αλεξ: Χάρηκα κι εγώ!",
+        "english": "Nikos: Alex, this is Dimitris. He is my friend. Dimitris: Hello, Alex! Nice to meet you! Alex: Nice to meet you too!",
+        "swedish": "Nikos: Alex, det här är Dimitris. Han är min vän. Dimitris: Hej, Alex! Trevligt att träffas! Alex: Trevligt att träffas också!",
+        "highlightWords": ["v-aftos-001", "v-filos-001"],
+        "speakerNote": "Alex meets another friend and uses χάρηκα"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Από πού είναι η Σάρα;",
+        "question": { "en": "Where is Sara from?", "sv": "Var kommer Sara ifrån?" },
+        "answerGreek": "Από την Αγγλία.",
+        "answer": { "en": "From England.", "sv": "Från England." }
+      },
+      {
+        "questionGreek": "Πώς είναι ο Αλεξ;",
+        "question": { "en": "How is Alex?", "sv": "Hur mår Alex?" },
+        "answerGreek": "Είναι πολύ καλά.",
+        "answer": { "en": "He is very well.", "sv": "Han mår mycket bra." }
+      }
+    ]
+  },
+  "grammarSpotlight": null,
+  "drills": [
+    {
+      "id": "d-w1c2l6-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: Hello! My name is Alex.", "sv": "Översätt till grekiska: Hej! Jag heter Alex." },
+      "correctAnswer": "Γεια σου! Με λένε Αλεξ.",
+      "acceptableAnswers": ["Γεια σου! Με λένε Αλεξ.", "Γεια σου! Με λένε Αλεξ", "γεια σου! με λένε Αλεξ"],
+      "hint": { "en": "Greeting + name introduction...", "sv": "Hälsning + namnpresentation..." },
+      "context": "Hello! My name is Alex.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l6-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: I am from Sweden.", "sv": "Översätt till grekiska: Jag är från Sverige." },
+      "correctAnswer": "Είμαι από τη Σουηδία.",
+      "acceptableAnswers": ["Είμαι από τη Σουηδία.", "Είμαι από τη Σουηδία", "Εγώ είμαι από τη Σουηδία."],
+      "hint": { "en": "Είμαι + από + τη Σουηδία...", "sv": "Είμαι + από + τη Σουηδία..." },
+      "context": "I am from Sweden.",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l6-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: How are you?", "sv": "Översätt till grekiska: Hur mår du?" },
+      "correctAnswer": "Πώς είσαι;",
+      "acceptableAnswers": ["Πώς είσαι;", "Πώς είσαι", "πώς είσαι;"],
+      "hint": { "en": "Πώς + είσαι...", "sv": "Πώς + είσαι..." },
+      "context": "How are you?",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l6-004",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: I am very well, thank you!", "sv": "Översätt till grekiska: Jag mår mycket bra, tack!" },
+      "correctAnswer": "Είμαι πολύ καλά, ευχαριστώ!",
+      "acceptableAnswers": ["Είμαι πολύ καλά, ��υχαριστώ!", "Είμαι πολύ καλά, ευχαριστώ", "Πολύ καλά, ευχαριστώ!"],
+      "hint": { "en": "Είμαι + πολύ + καλά + ευχαριστώ...", "sv": "Είμαι + πολύ + καλά + ευχαριστώ..." },
+      "context": "I am very well, thank you!",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l6-005",
+      "type": "cloze",
+      "prompt": { "en": "Fill in: This is Dimitris (male).", "sv": "Fyll i: Det här är Dimitris (man)." },
+      "context": "___ είναι ο Δημήτρης.",
+      "blankedWord": "Αυτός",
+      "correctAnswer": "Αυτός",
+      "acceptableAnswers": ["Αυτός", "αυτός"],
+      "hint": { "en": "Masculine 'this/he'...", "sv": "Maskulint 'den här/han'..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l6-006",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'I am not well' in Greek?", "sv": "Hur säger man 'Jag mår inte bra' på grekiska?" },
+      "correctAnswer": "Δεν είμαι καλά.",
+      "acceptableAnswers": ["Δεν είμαι καλά.", "Δεν είμαι καλά", "δεν είμαι καλά"],
+      "hint": { "en": "Δεν (not) before the verb...", "sv": "Δεν (inte) före verbet..." },
+      "context": "I am not well.",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l6-007",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Αυτή είναι φίλη μου. Είναι από την Ελλάδα.",
+      "correctAnswer": "She is my friend. She is from Greece.",
+      "acceptableAnswers": ["She is my friend. She is from Greece.", "This is my friend. She is from Greece."],
+      "hint": { "en": "Αυτή = she, φίλη = female friend, Ελλάδα = Greece...", "sv": "Αυτή = hon, φίλη = kvinnlig vän, Ελλάδα = Grekland..." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l6-008",
+      "type": "free_typing",
+      "prompt": { "en": "Write a full Greek introduction: say hello, give a name, and say where you're from.", "sv": "Skriv en hel grekisk presentation: säg hej, ge ett namn, och säg var du kommer ifrån." },
+      "correctAnswer": "Γεια σου! Με λένε Αλεξ. Είμαι από τη Σουηδ��α.",
+      "acceptableAnswers": ["Γεια σου! Με λένε Αλεξ. Είμαι από τη Σουηδία.", "Γεια σου! Με λένε"],
+      "hint": { "en": "Start with Γεια σου, then Με λένε..., then Είμαι από...", "sv": "Börja med Γεια σου, sedan Με λένε..., sedan Είμαι από..." },
+      "xpBase": 20
+    },
+    {
+      "id": "d-w1c2l6-009",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'Good night' in Greek?", "sv": "Hur säger man 'God natt' på grekiska?" },
+      "correctAnswer": "Καληνύχτα!",
+      "acceptableAnswers": ["Καληνύχτα!", "Καληνύχτα", "καληνύχτα"],
+      "hint": { "en": "Καλη + νύχτα...", "sv": "Καλη + νύχτα..." },
+      "context": "Good night",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l6-010",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Πώς σε λένε; Από πού είσαι; Πώς είσαι;",
+      "correctAnswer": "What's your name? Where are you from? How are you?",
+      "acceptableAnswers": ["What's your name? Where are you from? How are you?", "What is your name? Where are you from? How are you?"],
+      "hint": { "en": "Three common questions when meeting someone...", "sv": "Tre vanliga frågor när man träffar någon..." },
+      "xpBase": 15
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 120,
+    "drillIds": ["d-w1c2l6-001", "d-w1c2l6-002", "d-w1c2l6-003", "d-w1c2l6-004", "d-w1c2l6-005", "d-w1c2l6-006"]
+  },
+  "newVocabulary": [],
+  "newGrammarIds": [],
+  "idiom": {
+    "greek": "Χάρηκα!",
+    "literal": { "en": "I was pleased!", "sv": "Jag blev glad!" },
+    "meaning": { "en": "Nice to meet you!", "sv": "Trevligt att träffas!" },
+    "usage": { "en": "Said when meeting someone for the first time. You can also say 'Χάρηκα πολύ!' (Very pleased to meet you!). The response is often 'Κι εγώ!' (Me too!) or 'Χάρηκα κι εγώ!' (I was pleased too!).", "sv": "Sägs när man träffar någon för första gången. Man kan också säga 'Χάρηκα πολύ!' (Mycket trevligt att träffas!). Svaret är ofta 'Κι εγώ!' (Jag också!) eller 'Χάρηκα κι εγώ!' (Trevligt att träffas också!)." },
+    "example": {
+      "greek": "Γεια σου! Με λένε Νίκο. Χάρηκα!",
+      "translation": { "en": "Hello! My name is Niko. Nice to meet you!", "sv": "Hej! Jag heter Niko. Trevligt att träffas!" }
+    }
+  }
+}

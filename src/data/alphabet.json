@@ -1,0 +1,343 @@
+{
+  "letters": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "Άλφα",
+      "nameEnglish": "Alpha",
+      "sound": "/a/",
+      "romanized": "a",
+      "exampleWord": "αγάπη",
+      "exampleMeaning": { "en": "love", "sv": "kärlek" }
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "Βήτα",
+      "nameEnglish": "Beta",
+      "sound": "/v/",
+      "romanized": "v",
+      "exampleWord": "βιβλίο",
+      "exampleMeaning": { "en": "book", "sv": "bok" }
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "Γάμμα",
+      "nameEnglish": "Gamma",
+      "sound": "/ɣ/",
+      "romanized": "g",
+      "exampleWord": "γάτα",
+      "exampleMeaning": { "en": "cat", "sv": "katt" }
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "Δέλτα",
+      "nameEnglish": "Delta",
+      "sound": "/ð/",
+      "romanized": "d",
+      "exampleWord": "δρόμος",
+      "exampleMeaning": { "en": "road", "sv": "väg" }
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "Έψιλον",
+      "nameEnglish": "Epsilon",
+      "sound": "/e/",
+      "romanized": "e",
+      "exampleWord": "ελπίδα",
+      "exampleMeaning": { "en": "hope", "sv": "hopp" }
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "Ζήτα",
+      "nameEnglish": "Zeta",
+      "sound": "/z/",
+      "romanized": "z",
+      "exampleWord": "ζωή",
+      "exampleMeaning": { "en": "life", "sv": "liv" }
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "Ήτα",
+      "nameEnglish": "Eta",
+      "sound": "/i/",
+      "romanized": "i",
+      "exampleWord": "ήλιος",
+      "exampleMeaning": { "en": "sun", "sv": "sol" }
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "Θήτα",
+      "nameEnglish": "Theta",
+      "sound": "/θ/",
+      "romanized": "th",
+      "exampleWord": "θάλασσα",
+      "exampleMeaning": { "en": "sea", "sv": "hav" }
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "Ιώτα",
+      "nameEnglish": "Iota",
+      "sound": "/i/",
+      "romanized": "i",
+      "exampleWord": "ιστορία",
+      "exampleMeaning": { "en": "history", "sv": "historia" }
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "Κάππα",
+      "nameEnglish": "Kappa",
+      "sound": "/k/",
+      "romanized": "k",
+      "exampleWord": "καλημέρα",
+      "exampleMeaning": { "en": "good morning", "sv": "god morgon" }
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "Λάμδα",
+      "nameEnglish": "Lambda",
+      "sound": "/l/",
+      "romanized": "l",
+      "exampleWord": "λόγος",
+      "exampleMeaning": { "en": "word, reason", "sv": "ord, förnuft" }
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "Μι",
+      "nameEnglish": "Mu",
+      "sound": "/m/",
+      "romanized": "m",
+      "exampleWord": "μητέρα",
+      "exampleMeaning": { "en": "mother", "sv": "mamma" }
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "Νι",
+      "nameEnglish": "Nu",
+      "sound": "/n/",
+      "romanized": "n",
+      "exampleWord": "νερό",
+      "exampleMeaning": { "en": "water", "sv": "vatten" }
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "Ξι",
+      "nameEnglish": "Xi",
+      "sound": "/ks/",
+      "romanized": "x",
+      "exampleWord": "ξένος",
+      "exampleMeaning": { "en": "stranger, guest", "sv": "främling, gäst" }
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "Όμικρον",
+      "nameEnglish": "Omicron",
+      "sound": "/o/",
+      "romanized": "o",
+      "exampleWord": "όνομα",
+      "exampleMeaning": { "en": "name", "sv": "namn" }
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "Πι",
+      "nameEnglish": "Pi",
+      "sound": "/p/",
+      "romanized": "p",
+      "exampleWord": "πόλη",
+      "exampleMeaning": { "en": "city", "sv": "stad" }
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "Ρο",
+      "nameEnglish": "Rho",
+      "sound": "/r/",
+      "romanized": "r",
+      "exampleWord": "ρόδο",
+      "exampleMeaning": { "en": "rose", "sv": "ros" }
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ",
+      "finalForm": "ς",
+      "name": "Σίγμα",
+      "nameEnglish": "Sigma",
+      "sound": "/s/",
+      "romanized": "s",
+      "exampleWord": "σπίτι",
+      "exampleMeaning": { "en": "house", "sv": "hus" }
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "Ταυ",
+      "nameEnglish": "Tau",
+      "sound": "/t/",
+      "romanized": "t",
+      "exampleWord": "τραπέζι",
+      "exampleMeaning": { "en": "table", "sv": "bord" }
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "Ύψιλον",
+      "nameEnglish": "Upsilon",
+      "sound": "/i/",
+      "romanized": "y",
+      "exampleWord": "ύπνος",
+      "exampleMeaning": { "en": "sleep", "sv": "sömn" }
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "Φι",
+      "nameEnglish": "Phi",
+      "sound": "/f/",
+      "romanized": "f",
+      "exampleWord": "φίλος",
+      "exampleMeaning": { "en": "friend", "sv": "vän" }
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "Χι",
+      "nameEnglish": "Chi",
+      "sound": "/x/",
+      "romanized": "ch",
+      "exampleWord": "χρόνος",
+      "exampleMeaning": { "en": "time, year", "sv": "tid, år" }
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "Ψι",
+      "nameEnglish": "Psi",
+      "sound": "/ps/",
+      "romanized": "ps",
+      "exampleWord": "ψωμί",
+      "exampleMeaning": { "en": "bread", "sv": "bröd" }
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "Ωμέγα",
+      "nameEnglish": "Omega",
+      "sound": "/o/",
+      "romanized": "o",
+      "exampleWord": "ώρα",
+      "exampleMeaning": { "en": "hour, time", "sv": "timme, tid" }
+    }
+  ],
+  "digraphs": [
+    {
+      "letters": "αι",
+      "sound": "/e/",
+      "romanized": "e",
+      "exampleWord": "και",
+      "exampleMeaning": { "en": "and", "sv": "och" },
+      "note": { "en": "Sounds like 'e' in 'bed'", "sv": "Låter som 'e' i 'bett'" }
+    },
+    {
+      "letters": "ει",
+      "sound": "/i/",
+      "romanized": "i",
+      "exampleWord": "είναι",
+      "exampleMeaning": { "en": "is", "sv": "är" },
+      "note": { "en": "Sounds like 'ee' in 'see'", "sv": "Låter som 'i' i 'bil'" }
+    },
+    {
+      "letters": "οι",
+      "sound": "/i/",
+      "romanized": "i",
+      "exampleWord": "οικογένεια",
+      "exampleMeaning": { "en": "family", "sv": "familj" },
+      "note": { "en": "Sounds like 'ee' in 'see'", "sv": "Låter som 'i' i 'bil'" }
+    },
+    {
+      "letters": "ου",
+      "sound": "/u/",
+      "romanized": "ou",
+      "exampleWord": "ουρανός",
+      "exampleMeaning": { "en": "sky", "sv": "himmel" },
+      "note": { "en": "Sounds like 'oo' in 'moon'", "sv": "Låter som 'o' i 'bok'" }
+    },
+    {
+      "letters": "αυ",
+      "sound": "/av/, /af/",
+      "romanized": "av/af",
+      "exampleWord": "αυτός",
+      "exampleMeaning": { "en": "he, this", "sv": "han, denna" },
+      "note": { "en": "/av/ before vowels and voiced consonants, /af/ before voiceless consonants", "sv": "/av/ före vokaler och tonande konsonanter, /af/ före tonlösa konsonanter" }
+    },
+    {
+      "letters": "ευ",
+      "sound": "/ev/, /ef/",
+      "romanized": "ev/ef",
+      "exampleWord": "ευχαριστώ",
+      "exampleMeaning": { "en": "thank you", "sv": "tack" },
+      "note": { "en": "/ev/ before vowels and voiced consonants, /ef/ before voiceless consonants", "sv": "/ev/ före vokaler och tonande konsonanter, /ef/ före tonlösa konsonanter" }
+    },
+    {
+      "letters": "μπ",
+      "sound": "/b/, /mb/",
+      "romanized": "b/mb",
+      "exampleWord": "μπαμπάς",
+      "exampleMeaning": { "en": "dad", "sv": "pappa" },
+      "note": { "en": "/b/ at the start of a word, /mb/ in the middle", "sv": "/b/ i början av ett ord, /mb/ i mitten" }
+    },
+    {
+      "letters": "ντ",
+      "sound": "/d/, /nd/",
+      "romanized": "d/nd",
+      "exampleWord": "ντομάτα",
+      "exampleMeaning": { "en": "tomato", "sv": "tomat" },
+      "note": { "en": "/d/ at the start of a word, /nd/ in the middle", "sv": "/d/ i början av ett ord, /nd/ i mitten" }
+    },
+    {
+      "letters": "γκ",
+      "sound": "/g/, /ng/",
+      "romanized": "g/ng",
+      "exampleWord": "γκαράζ",
+      "exampleMeaning": { "en": "garage", "sv": "garage" },
+      "note": { "en": "/g/ at the start of a word, /ng/ in the middle", "sv": "/g/ i början av ett ord, /ng/ i mitten" }
+    },
+    {
+      "letters": "τσ",
+      "sound": "/ts/",
+      "romanized": "ts",
+      "exampleWord": "τσάι",
+      "exampleMeaning": { "en": "tea", "sv": "te" },
+      "note": { "en": "Like 'ts' in 'cats'", "sv": "Som 'ts' i 'vits'" }
+    },
+    {
+      "letters": "τζ",
+      "sound": "/dz/",
+      "romanized": "dz",
+      "exampleWord": "τζάκι",
+      "exampleMeaning": { "en": "fireplace", "sv": "öppen spis" },
+      "note": { "en": "Like 'ds' in 'beds'", "sv": "Som 'dz' i engelskans 'beds'" }
+    },
+    {
+      "letters": "γγ",
+      "sound": "/ng/",
+      "romanized": "ng",
+      "exampleWord": "αγγλικά",
+      "exampleMeaning": { "en": "English (language)", "sv": "engelska" },
+      "note": { "en": "Like 'ng' in 'song'", "sv": "Som 'ng' i 'sång'" }
+    }
+  ]
+}

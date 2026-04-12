@@ -1,0 +1,164 @@
+{
+  "id": "w1-c1-l5",
+  "chapterId": "w1-c1",
+  "number": 5,
+  "title": { "en": "More Essential Words", "sv": "Fler viktiga ord" },
+  "titleGreek": "Περισσότερες σημαντικές λέξεις",
+  "estimatedMinutes": 12,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ φτάνει στο ξενοδοχείο. Είναι πρωί. Η ρεσεψιονίστ λέει: «Καλημέρα!»",
+        "english": "Alex arrives at the hotel. It is morning. The receptionist says: \"Good morning!\"",
+        "swedish": "Alex anländer till hotellet. Det är morgon. Receptionisten säger: \"God morgon!\"",
+        "highlightWords": ["v-kalimera-001", "v-xenodocheio-001"],
+        "speakerNote": "Alex arrives at the hotel in the morning"
+      },
+      {
+        "greek": "Αργότερα, στις έξι, ο Αλεξ βγαίνει. Ένας γείτονας λέει: «Καλησπέρα!» Το βράδυ, πριν κοιμηθεί, η ρεσεψιονίστ λέει: «Καληνύχτα!»",
+        "english": "Later, at six, Alex goes out. A neighbor says: \"Good evening!\" At night, before he sleeps, the receptionist says: \"Good night!\"",
+        "swedish": "Senare, vid sex, går Alex ut. En granne säger: \"God kväll!\" På natten, innan han somnar, säger receptionisten: \"God natt!\"",
+        "highlightWords": ["v-kalispera-001", "v-kalinychta-001"],
+        "speakerNote": "Alex learns the time-of-day greetings"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Τι λέει η ρεσεψιονίστ το πρωί;",
+        "question": { "en": "What does the receptionist say in the morning?", "sv": "Vad säger receptionisten på morgonen?" },
+        "answerGreek": "Καλημέρα!",
+        "answer": { "en": "Good morning!", "sv": "God morgon!" }
+      },
+      {
+        "questionGreek": "Τι λένε το βράδυ πριν κοιμηθεί;",
+        "question": { "en": "What do they say at night before sleeping?", "sv": "Vad säger de på natten innan de somnar?" },
+        "answerGreek": "Καληνύχτα!",
+        "answer": { "en": "Good night!", "sv": "God natt!" }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-timeofday-001",
+    "title": { "en": "Time-of-Day Greetings", "sv": "Hälsningar efter tid på dygnet" },
+    "explanation": {
+      "en": "Greek has three greetings based on the time of day. All start with καλη- (good). Καλημέρα (kali-ME-ra) = Good morning/day — used until about 1-2 PM. Καλησπέρα (kali-SPE-ra) = Good evening — used from about 5-6 PM. Καληνύχτα (kali-NICH-ta) = Good night — used when saying goodbye at night or going to bed.",
+      "sv": "Grekiska har tre hälsningar baserade på tid på dygnet. Alla börjar med καλη- (god). Καλημέρα (kali-ME-ra) = God morgon/dag — används till ca 13-14. Καλησπέρα (kali-SPE-ra) = God kväll — används från ca 17-18. Καληνύχτα (kali-NICH-ta) = God natt — används vid hejdå på kvällen eller sänggående."
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "Good morning/day (until ~2 PM)", "sv": "God morgon/dag (till ~14)" }, "greek": "Καλημέρα!", "translation": { "en": "Good morning!", "sv": "God morgon!" } },
+      { "step": 2, "instruction": { "en": "Good evening (from ~5-6 PM)", "sv": "God kväll (från ~17-18)" }, "greek": "Καλησπέρα!", "translation": { "en": "Good evening!", "sv": "God kväll!" } },
+      { "step": 3, "instruction": { "en": "Good night (when leaving / going to bed)", "sv": "God natt (vid hejdå / sänggående)" }, "greek": "Καληνύχτα!", "translation": { "en": "Good night!", "sv": "God natt!" } }
+    ],
+    "examples": [
+      {
+        "greek": "Καλημέρα!",
+        "translation": { "en": "Good morning!", "sv": "God morgon!" },
+        "breakdown": [
+          { "part": "Καλη-", "label": { "en": "Good (from καλή)", "sv": "God (från καλή)" } },
+          { "part": "-μέρα", "label": { "en": "day (from ημέρα)", "sv": "dag (från ημέρα)" } }
+        ]
+      },
+      {
+        "greek": "Καλησπέρα!",
+        "translation": { "en": "Good evening!", "sv": "God kväll!" },
+        "breakdown": [
+          { "part": "Καλη-", "label": { "en": "Good", "sv": "God" } },
+          { "part": "-σπέρα", "label": { "en": "evening (from εσπέρα)", "sv": "kväll (från εσπέρα)" } }
+        ]
+      }
+    ],
+    "swedishParallel": "This maps perfectly to Swedish! Καλημέρα = God morgon, Καλησπέρα = God kväll, Καληνύχτα = God natt. The only difference: Greek merges the words into one (καλη + μέρα → καλημέρα), while Swedish keeps them separate (god + morgon)."
+  },
+  "drills": [
+    {
+      "id": "d-w1c1l5-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'Good morning' in Greek?", "sv": "Hur säger man 'God morgon' på grekiska?" },
+      "correctAnswer": "Καλημέρα!",
+      "acceptableAnswers": ["Καλημέρα!", "Καλημέρα", "καλημέρα"],
+      "hint": { "en": "Καλη (good) + μέρα (day)...", "sv": "Καλη (god) + μέρα (dag)..." },
+      "context": "Good morning",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l5-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'Good evening' in Greek?", "sv": "Hur säger man 'God kväll' på grekiska?" },
+      "correctAnswer": "Καλησπέρα!",
+      "acceptableAnswers": ["Καλησπέρα!", "Καλησπέρα", "καλησπέρα"],
+      "hint": { "en": "Καλη (good) + σπέρα (evening)...", "sv": "Καλη (god) + σπέρα (kväll)..." },
+      "context": "Good evening",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l5-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'Good night' in Greek?", "sv": "Hur säger man 'God natt' på grekiska?" },
+      "correctAnswer": "Καληνύχτα!",
+      "acceptableAnswers": ["Καληνύχτα!", "Καληνύχτα", "καληνύχτα"],
+      "hint": { "en": "Καλη (good) + νύχτα (night)...", "sv": "Καλη (god) + νύχτα (natt)..." },
+      "context": "Good night",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l5-004",
+      "type": "free_typing",
+      "prompt": { "en": "It's 7 PM. How do you greet someone?", "sv": "Klockan är 19. Hur hälsar du på någon?" },
+      "correctAnswer": "Καλησπέρα!",
+      "acceptableAnswers": ["Καλησπέρα!", "Καλησπέρα", "καλησπέρα"],
+      "hint": { "en": "Evening greeting...", "sv": "Kvällshälsning..." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c1l5-005",
+      "type": "free_typing",
+      "prompt": { "en": "It's 9 AM. How do you greet someone?", "sv": "Klockan är 9 på morgonen. Hur hälsar du på någon?" },
+      "correctAnswer": "Καλημέρα!",
+      "acceptableAnswers": ["Καλημέρα!", "Καλημέρα", "καλημέρα"],
+      "hint": { "en": "Morning greeting...", "sv": "Morgonhälsning..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l5-006",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this word mean?", "sv": "Vad betyder detta ord?" },
+      "promptGreek": "ξενοδοχείο",
+      "correctAnswer": "hotel",
+      "acceptableAnswers": ["hotel", "Hotel", "hotell"],
+      "hint": { "en": "A place where travelers stay.", "sv": "En plats där resenärer bor." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l5-007",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'thank you' in Greek?", "sv": "Repetition: Hur säger man 'tack' på grekiska?" },
+      "correctAnswer": "ευχαριστώ",
+      "acceptableAnswers": ["ευχαριστώ", "Ευχαριστώ", "ευχαριστω"],
+      "hint": { "en": "Starts with ευχ...", "sv": "Börjar med ευχ..." },
+      "context": "thank you",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l5-008",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'no' in Greek?", "sv": "Repetition: Hur säger man 'nej' på grekiska?" },
+      "correctAnswer": "όχι",
+      "acceptableAnswers": ["όχι", "Όχι", "οχι"],
+      "hint": { "en": "Starts with ό...", "sv": "Börjar med ό..." },
+      "context": "no",
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c1l5-001", "d-w1c1l5-002", "d-w1c1l5-003"]
+  },
+  "newVocabulary": [
+    "v-kalimera-001",
+    "v-kalispera-001",
+    "v-kalinychta-001",
+    "v-xenodocheio-001"
+  ],
+  "newGrammarIds": ["gr-timeofday-001"],
+  "idiom": null
+}

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "first_word",
+    "name": { "en": "First Word", "sv": "Första ordet" },
+    "description": { "en": "Learn your first Greek word", "sv": "Lär dig ditt första grekiska ord" },
+    "icon": "🌱",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 1 }
+  },
+  {
+    "id": "word_collector",
+    "name": { "en": "Word Collector", "sv": "Ordsamlare" },
+    "description": { "en": "Learn 50 Greek words", "sv": "Lär dig 50 grekiska ord" },
+    "icon": "📝",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 50 }
+  },
+  {
+    "id": "century",
+    "name": { "en": "Century", "sv": "Hundra" },
+    "description": { "en": "Learn 100 Greek words", "sv": "Lär dig 100 grekiska ord" },
+    "icon": "💯",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 100 }
+  },
+  {
+    "id": "word_enthusiast",
+    "name": { "en": "Word Enthusiast", "sv": "Ordentusiast" },
+    "description": { "en": "Learn 250 Greek words", "sv": "Lär dig 250 grekiska ord" },
+    "icon": "📖",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 250 }
+  },
+  {
+    "id": "polyglot",
+    "name": { "en": "Polyglot", "sv": "Polyglott" },
+    "description": { "en": "Learn 500 Greek words", "sv": "Lär dig 500 grekiska ord" },
+    "icon": "🗣️",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 500 }
+  },
+  {
+    "id": "lexicon",
+    "name": { "en": "Lexicon", "sv": "Lexikon" },
+    "description": { "en": "Learn 1000 Greek words", "sv": "Lär dig 1000 grekiska ord" },
+    "icon": "📚",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 1000 }
+  },
+  {
+    "id": "vocabulary_sage",
+    "name": { "en": "Vocabulary Sage", "sv": "Ordförrådsvis" },
+    "description": { "en": "Learn 1500 Greek words", "sv": "Lär dig 1500 grekiska ord" },
+    "icon": "🦉",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 1500 }
+  },
+  {
+    "id": "dictionary",
+    "name": { "en": "Dictionary", "sv": "Ordbok" },
+    "description": { "en": "Learn 2500 Greek words", "sv": "Lär dig 2500 grekiska ord" },
+    "icon": "📕",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 2500 }
+  },
+  {
+    "id": "word_master",
+    "name": { "en": "Word Master", "sv": "Ordmästare" },
+    "description": { "en": "Learn 5000 Greek words", "sv": "Lär dig 5000 grekiska ord" },
+    "icon": "👑",
+    "category": "vocabulary",
+    "condition": { "type": "words_learned", "threshold": 5000 }
+  },
+  {
+    "id": "first_rule",
+    "name": { "en": "First Rule", "sv": "Första regeln" },
+    "description": { "en": "Learn your first grammar rule", "sv": "Lär dig din första grammatikregel" },
+    "icon": "📐",
+    "category": "grammar",
+    "condition": { "type": "grammar_rules_learned", "threshold": 1 }
+  },
+  {
+    "id": "grammar_novice",
+    "name": { "en": "Grammar Novice", "sv": "Grammatiknybörjare" },
+    "description": { "en": "Learn 10 grammar rules", "sv": "Lär dig 10 grammatikregler" },
+    "icon": "📏",
+    "category": "grammar",
+    "condition": { "type": "grammar_rules_learned", "threshold": 10 }
+  },
+  {
+    "id": "pattern_spotter",
+    "name": { "en": "Pattern Spotter", "sv": "Mönsterupptäckare" },
+    "description": { "en": "Learn 25 grammar rules", "sv": "Lär dig 25 grammatikregler" },
+    "icon": "🔍",
+    "category": "grammar",
+    "condition": { "type": "grammar_rules_learned", "threshold": 25 }
+  },
+  {
+    "id": "grammar_guru",
+    "name": { "en": "Grammar Guru", "sv": "Grammatikguru" },
+    "description": { "en": "Learn 50 grammar rules", "sv": "Lär dig 50 grammatikregler" },
+    "icon": "🧠",
+    "category": "grammar",
+    "condition": { "type": "grammar_rules_learned", "threshold": 50 }
+  },
+  {
+    "id": "syntax_master",
+    "name": { "en": "Syntax Master", "sv": "Syntaxmästare" },
+    "description": { "en": "Learn 100 grammar rules", "sv": "Lär dig 100 grammatikregler" },
+    "icon": "🏆",
+    "category": "grammar",
+    "condition": { "type": "grammar_rules_learned", "threshold": 100 }
+  },
+  {
+    "id": "one_day",
+    "name": { "en": "First Day", "sv": "Första dagen" },
+    "description": { "en": "Complete your first day of study", "sv": "Slutför din första studiedag" },
+    "icon": "☀️",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 1 }
+  },
+  {
+    "id": "three_days",
+    "name": { "en": "Three in a Row", "sv": "Tre i rad" },
+    "description": { "en": "Study 3 days in a row", "sv": "Studera 3 dagar i rad" },
+    "icon": "🔥",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 3 }
+  },
+  {
+    "id": "one_week",
+    "name": { "en": "One Week Warrior", "sv": "En veckas krigare" },
+    "description": { "en": "Study 7 days in a row", "sv": "Studera 7 dagar i rad" },
+    "icon": "📅",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 7 }
+  },
+  {
+    "id": "two_weeks",
+    "name": { "en": "Fortnight Fighter", "sv": "Tvåveckorskämpe" },
+    "description": { "en": "Study 14 days in a row", "sv": "Studera 14 dagar i rad" },
+    "icon": "⚔️",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 14 }
+  },
+  {
+    "id": "one_month",
+    "name": { "en": "Monthly Master", "sv": "Månadsmästare" },
+    "description": { "en": "Study 30 days in a row", "sv": "Studera 30 dagar i rad" },
+    "icon": "🌙",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 30 }
+  },
+  {
+    "id": "sixty_days",
+    "name": { "en": "Two Month Titan", "sv": "Tvåmånaderstitanen" },
+    "description": { "en": "Study 60 days in a row", "sv": "Studera 60 dagar i rad" },
+    "icon": "💪",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 60 }
+  },
+  {
+    "id": "ninety_days",
+    "name": { "en": "Quarter Champion", "sv": "Kvartalsmästare" },
+    "description": { "en": "Study 90 days in a row", "sv": "Studera 90 dagar i rad" },
+    "icon": "🏅",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 90 }
+  },
+  {
+    "id": "half_year",
+    "name": { "en": "Half Year Hero", "sv": "Halvårshjälte" },
+    "description": { "en": "Study 180 days in a row", "sv": "Studera 180 dagar i rad" },
+    "icon": "🌟",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 180 }
+  },
+  {
+    "id": "full_year",
+    "name": { "en": "Year of Dedication", "sv": "Hängivenhetens år" },
+    "description": { "en": "Study 365 days in a row", "sv": "Studera 365 dagar i rad" },
+    "icon": "🎆",
+    "category": "streak",
+    "condition": { "type": "streak_days", "threshold": 365 }
+  },
+  {
+    "id": "first_lesson",
+    "name": { "en": "First Lesson", "sv": "Första lektionen" },
+    "description": { "en": "Complete your first lesson", "sv": "Slutför din första lektion" },
+    "icon": "✅",
+    "category": "progress",
+    "condition": { "type": "lessons_completed", "threshold": 1 }
+  },
+  {
+    "id": "five_lessons",
+    "name": { "en": "Getting Started", "sv": "Igång" },
+    "description": { "en": "Complete 5 lessons", "sv": "Slutför 5 lektioner" },
+    "icon": "🚀",
+    "category": "progress",
+    "condition": { "type": "lessons_completed", "threshold": 5 }
+  },
+  {
+    "id": "first_chapter",
+    "name": { "en": "First Chapter", "sv": "Första kapitlet" },
+    "description": { "en": "Complete your first chapter (6 lessons)", "sv": "Slutför ditt första kapitel (6 lektioner)" },
+    "icon": "📕",
+    "category": "progress",
+    "condition": { "type": "lessons_completed", "threshold": 6 }
+  },
+  {
+    "id": "ten_lessons",
+    "name": { "en": "Dedicated Learner", "sv": "Hängiven elev" },
+    "description": { "en": "Complete 10 lessons", "sv": "Slutför 10 lektioner" },
+    "icon": "📘",
+    "category": "progress",
+    "condition": { "type": "lessons_completed", "threshold": 10 }
+  },
+  {
+    "id": "twenty_five_lessons",
+    "name": { "en": "Quarter Century", "sv": "Kvartsekel" },
+    "description": { "en": "Complete 25 lessons", "sv": "Slutför 25 lektioner" },
+    "icon": "📗",
+    "category": "progress",
+    "condition": { "type": "lessons_completed", "threshold": 25 }
+  },
+  {
+    "id": "world1_complete",
+    "name": { "en": "World 1 Complete", "sv": "Värld 1 klar" },
+    "description": { "en": "Complete all lessons in World 1: Foundations", "sv": "Slutför alla lektioner i Värld 1: Grunder" },
+    "icon": "🏛️",
+    "category": "progress",
+    "condition": { "type": "world_completed", "threshold": 1 }
+  },
+  {
+    "id": "world2_complete",
+    "name": { "en": "World 2 Complete", "sv": "Värld 2 klar" },
+    "description": { "en": "Complete all lessons in World 2: Daily Life", "sv": "Slutför alla lektioner i Värld 2: Vardagsliv" },
+    "icon": "🏠",
+    "category": "progress",
+    "condition": { "type": "world_completed", "threshold": 2 }
+  },
+  {
+    "id": "world3_complete",
+    "name": { "en": "World 3 Complete", "sv": "Värld 3 klar" },
+    "description": { "en": "Complete all lessons in World 3: Culture", "sv": "Slutför alla lektioner i Värld 3: Kultur" },
+    "icon": "🎭",
+    "category": "progress",
+    "condition": { "type": "world_completed", "threshold": 3 }
+  },
+  {
+    "id": "world4_complete",
+    "name": { "en": "World 4 Complete", "sv": "Värld 4 klar" },
+    "description": { "en": "Complete all lessons in World 4: Travel", "sv": "Slutför alla lektioner i Värld 4: Resor" },
+    "icon": "✈️",
+    "category": "progress",
+    "condition": { "type": "world_completed", "threshold": 4 }
+  },
+  {
+    "id": "world5_complete",
+    "name": { "en": "World 5 Complete", "sv": "Värld 5 klar" },
+    "description": { "en": "Complete all lessons in World 5: Professional", "sv": "Slutför alla lektioner i Värld 5: Professionell" },
+    "icon": "💼",
+    "category": "progress",
+    "condition": { "type": "world_completed", "threshold": 5 }
+  },
+  {
+    "id": "a1_certified",
+    "name": { "en": "A1 Certified", "sv": "A1-certifierad" },
+    "description": { "en": "Reach CEFR level A1", "sv": "Nå CEFR-nivå A1" },
+    "icon": "🥉",
+    "category": "progress",
+    "condition": { "type": "cefr_level", "threshold": "A1" }
+  },
+  {
+    "id": "a2_certified",
+    "name": { "en": "A2 Certified", "sv": "A2-certifierad" },
+    "description": { "en": "Reach CEFR level A2", "sv": "Nå CEFR-nivå A2" },
+    "icon": "🥈",
+    "category": "progress",
+    "condition": { "type": "cefr_level", "threshold": "A2" }
+  },
+  {
+    "id": "b1_certified",
+    "name": { "en": "B1 Certified", "sv": "B1-certifierad" },
+    "description": { "en": "Reach CEFR level B1", "sv": "Nå CEFR-nivå B1" },
+    "icon": "🥇",
+    "category": "progress",
+    "condition": { "type": "cefr_level", "threshold": "B1" }
+  },
+  {
+    "id": "b2_certified",
+    "name": { "en": "B2 Certified", "sv": "B2-certifierad" },
+    "description": { "en": "Reach CEFR level B2", "sv": "Nå CEFR-nivå B2" },
+    "icon": "🏆",
+    "category": "progress",
+    "condition": { "type": "cefr_level", "threshold": "B2" }
+  },
+  {
+    "id": "speed_demon",
+    "name": { "en": "Speed Demon", "sv": "Snabbhetsdemon" },
+    "description": { "en": "Get 100% in a speed round", "sv": "Få 100% i en snabbrunda" },
+    "icon": "⚡",
+    "category": "speed",
+    "condition": { "type": "speed_round_perfect", "threshold": 1 }
+  },
+  {
+    "id": "lightning_fast",
+    "name": { "en": "Lightning Fast", "sv": "Blixtsnabb" },
+    "description": { "en": "Complete 10 drills in under 60 seconds", "sv": "Slutför 10 övningar på under 60 sekunder" },
+    "icon": "🌩️",
+    "category": "speed",
+    "condition": { "type": "drills_under_time", "threshold": 10 }
+  },
+  {
+    "id": "speed_streak",
+    "name": { "en": "Speed Streak", "sv": "Snabbhetssvit" },
+    "description": { "en": "Get 100% in 3 speed rounds in a row", "sv": "Få 100% i 3 snabbrundor i rad" },
+    "icon": "🔥",
+    "category": "speed",
+    "condition": { "type": "speed_round_streak", "threshold": 3 }
+  },
+  {
+    "id": "time_trial_master",
+    "name": { "en": "Time Trial Master", "sv": "Tidsmästare" },
+    "description": { "en": "Complete 50 speed rounds", "sv": "Slutför 50 snabbrundor" },
+    "icon": "⏱️",
+    "category": "speed",
+    "condition": { "type": "speed_rounds_completed", "threshold": 50 }
+  },
+  {
+    "id": "perfect_lesson",
+    "name": { "en": "Perfect Lesson", "sv": "Perfekt lektion" },
+    "description": { "en": "Get 100% accuracy in a lesson", "sv": "Få 100% träffsäkerhet i en lektion" },
+    "icon": "💎",
+    "category": "accuracy",
+    "condition": { "type": "lesson_accuracy", "threshold": 100 }
+  },
+  {
+    "id": "three_perfects",
+    "name": { "en": "Hat Trick", "sv": "Hattrick" },
+    "description": { "en": "Get 3 perfect lessons in a row", "sv": "Få 3 perfekta lektioner i rad" },
+    "icon": "🎯",
+    "category": "accuracy",
+    "condition": { "type": "perfect_lesson_streak", "threshold": 3 }
+  },
+  {
+    "id": "sharpshooter",
+    "name": { "en": "Sharpshooter", "sv": "Prickskytt" },
+    "description": { "en": "Maintain 90%+ accuracy over 100 reviews", "sv": "Håll 90%+ träffsäkerhet över 100 repetitioner" },
+    "icon": "🏹",
+    "category": "accuracy",
+    "condition": { "type": "review_accuracy_over", "threshold": 90 }
+  },
+  {
+    "id": "precision_master",
+    "name": { "en": "Precision Master", "sv": "Precisionsmästare" },
+    "description": { "en": "Maintain 95%+ accuracy over 500 reviews", "sv": "Håll 95%+ träffsäkerhet över 500 repetitioner" },
+    "icon": "🎖️",
+    "category": "accuracy",
+    "condition": { "type": "review_accuracy_over_500", "threshold": 95 }
+  },
+  {
+    "id": "no_mistakes",
+    "name": { "en": "Flawless", "sv": "Felfri" },
+    "description": { "en": "Complete 5 lessons in a row without mistakes", "sv": "Slutför 5 lektioner i rad utan misstag" },
+    "icon": "✨",
+    "category": "accuracy",
+    "condition": { "type": "perfect_lesson_streak", "threshold": 5 }
+  },
+  {
+    "id": "arxitektonas",
+    "name": { "en": "Αρχιτέκτονας", "sv": "Αρχιτέκτονας" },
+    "description": { "en": "Learn all architecture vocabulary", "sv": "Lär dig alla arkitekturord" },
+    "icon": "🏛️",
+    "category": "domain",
+    "condition": { "type": "domain_complete", "threshold": "architecture" }
+  },
+  {
+    "id": "mageiras",
+    "name": { "en": "Μάγειρας", "sv": "Μάγειρας" },
+    "description": { "en": "Learn all food and cooking vocabulary", "sv": "Lär dig alla mat- och matlagningsord" },
+    "icon": "🍳",
+    "category": "domain",
+    "condition": { "type": "domain_complete", "threshold": "food" }
+  },
+  {
+    "id": "mousikos",
+    "name": { "en": "Μουσικός", "sv": "Μουσικός" },
+    "description": { "en": "Learn all music vocabulary", "sv": "Lär dig alla musikord" },
+    "icon": "🎵",
+    "category": "domain",
+    "condition": { "type": "domain_complete", "threshold": "music" }
+  },
+  {
+    "id": "athlitis",
+    "name": { "en": "Αθλητής", "sv": "Αθλητής" },
+    "description": { "en": "Learn all sports vocabulary", "sv": "Lär dig alla sportord" },
+    "icon": "🏃",
+    "category": "domain",
+    "condition": { "type": "domain_complete", "threshold": "sports" }
+  },
+  {
+    "id": "giatros",
+    "name": { "en": "Γιατρός", "sv": "Γιατρός" },
+    "description": { "en": "Learn all health vocabulary", "sv": "Lär dig alla hälsoord" },
+    "icon": "🏥",
+    "category": "domain",
+    "condition": { "type": "domain_complete", "threshold": "health" }
+  },
+  {
+    "id": "taxidiotis",
+    "name": { "en": "Ταξιδιώτης", "sv": "Ταξιδιώτης" },
+    "description": { "en": "Learn all travel vocabulary", "sv": "Lär dig alla reseord" },
+    "icon": "✈️",
+    "category": "domain",
+    "condition": { "type": "domain_complete", "threshold": "travel" }
+  },
+  {
+    "id": "first_review",
+    "name": { "en": "First Review", "sv": "Första repetitionen" },
+    "description": { "en": "Complete your first review session", "sv": "Slutför din första repetitionssession" },
+    "icon": "🔄",
+    "category": "progress",
+    "condition": { "type": "reviews_completed", "threshold": 1 }
+  },
+  {
+    "id": "review_veteran",
+    "name": { "en": "Review Veteran", "sv": "Repetitionsveteran" },
+    "description": { "en": "Complete 100 review sessions", "sv": "Slutför 100 repetitionssessioner" },
+    "icon": "🔁",
+    "category": "progress",
+    "condition": { "type": "reviews_completed", "threshold": 100 }
+  },
+  {
+    "id": "alphabet_master",
+    "name": { "en": "Alphabet Master", "sv": "Alfabetsmästare" },
+    "description": { "en": "Learn all Greek letters and digraphs", "sv": "Lär dig alla grekiska bokstäver och digrafer" },
+    "icon": "🔤",
+    "category": "progress",
+    "condition": { "type": "alphabet_complete", "threshold": 1 }
+  },
+  {
+    "id": "night_owl",
+    "name": { "en": "Night Owl", "sv": "Nattuggla" },
+    "description": { "en": "Study after midnight", "sv": "Studera efter midnatt" },
+    "icon": "🦉",
+    "category": "streak",
+    "condition": { "type": "study_after_midnight", "threshold": 1 }
+  },
+  {
+    "id": "early_bird",
+    "name": { "en": "Early Bird", "sv": "Morgonfågel" },
+    "description": { "en": "Study before 7 AM", "sv": "Studera före kl. 7" },
+    "icon": "🐦",
+    "category": "streak",
+    "condition": { "type": "study_before_seven", "threshold": 1 }
+  },
+  {
+    "id": "xp_collector",
+    "name": { "en": "XP Collector", "sv": "XP-samlare" },
+    "description": { "en": "Earn 10,000 total XP", "sv": "Tjäna totalt 10 000 XP" },
+    "icon": "⭐",
+    "category": "progress",
+    "condition": { "type": "total_xp", "threshold": 10000 }
+  },
+  {
+    "id": "xp_hoarder",
+    "name": { "en": "XP Hoarder", "sv": "XP-samlare" },
+    "description": { "en": "Earn 100,000 total XP", "sv": "Tjäna totalt 100 000 XP" },
+    "icon": "🌟",
+    "category": "progress",
+    "condition": { "type": "total_xp", "threshold": 100000 }
+  }
+]

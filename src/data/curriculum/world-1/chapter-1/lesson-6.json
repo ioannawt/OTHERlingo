@@ -1,0 +1,164 @@
+{
+  "id": "w1-c1-l6",
+  "chapterId": "w1-c1",
+  "number": 6,
+  "title": { "en": "Review: First Steps", "sv": "Repetition: Första stegen" },
+  "titleGreek": "Επανάληψη: Τα πρώτα βήματα",
+  "estimatedMinutes": 15,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Είναι βράδυ στην Αθήνα. Ο Αλεξ κάθεται στο ξενοδοχείο και σκέφτεται την πρώτη μέρα του.",
+        "english": "It is evening in Athens. Alex sits in the hotel and thinks about his first day.",
+        "swedish": "Det är kväll i Aten. Alex sitter på hotellet och tänker på sin första dag.",
+        "highlightWords": ["v-athina-001", "v-xenodocheio-001"],
+        "speakerNote": "Alex reflects on everything he learned today"
+      },
+      {
+        "greek": "Σήμερα έμαθε πολλά: ναι, όχι, γεια σου, ευχαριστώ, παρακαλώ, καλημέρα, καλησπέρα, καληνύχτα.",
+        "english": "Today he learned a lot: yes, no, hello, thank you, please, good morning, good evening, good night.",
+        "swedish": "Idag lärde han sig mycket: ja, nej, hej, tack, varsågod, god morgon, god kväll, god natt.",
+        "highlightWords": [],
+        "speakerNote": "A summary of all the words from Chapter 1"
+      },
+      {
+        "greek": "Η ρεσεψιονίστ λέει: «Καληνύχτα!» Ο Αλεξ απαντάει: «Καληνύχτα! Ευχαριστώ!»",
+        "english": "The receptionist says: \"Good night!\" Alex replies: \"Good night! Thank you!\"",
+        "swedish": "Receptionisten säger: \"God natt!\" Alex svarar: \"God natt! Tack!\"",
+        "highlightWords": ["v-kalinychta-001", "v-efcharisto-001"],
+        "speakerNote": "Alex uses his Greek naturally for the first time"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Πού είναι ο Αλεξ;",
+        "question": { "en": "Where is Alex?", "sv": "Var är Alex?" },
+        "answerGreek": "Στο ξενοδοχείο στην Αθήνα.",
+        "answer": { "en": "At the hotel in Athens.", "sv": "På hotellet i Aten." }
+      },
+      {
+        "questionGreek": "Τι λέει η ρεσεψιονίστ;",
+        "question": { "en": "What does the receptionist say?", "sv": "Vad säger receptionisten?" },
+        "answerGreek": "Καληνύχτα!",
+        "answer": { "en": "Good night!", "sv": "God natt!" }
+      }
+    ]
+  },
+  "grammarSpotlight": null,
+  "drills": [
+    {
+      "id": "d-w1c1l6-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'yes' in Greek?", "sv": "Hur säger man 'ja' på grekiska?" },
+      "correctAnswer": "ναι",
+      "acceptableAnswers": ["ναι", "Ναι"],
+      "hint": { "en": "Sounds like 'neh'.", "sv": "Låter som 'ne'." },
+      "context": "yes",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l6-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'no' in Greek?", "sv": "Hur säger man 'nej' på grekiska?" },
+      "correctAnswer": "όχι",
+      "acceptableAnswers": ["όχι", "Όχι", "οχι"],
+      "hint": { "en": "Starts with ό...", "sv": "Börjar med ό..." },
+      "context": "no",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l6-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'thank you' in Greek?", "sv": "Hur säger man 'tack' på grekiska?" },
+      "correctAnswer": "ευχαριστώ",
+      "acceptableAnswers": ["ευχαριστώ", "Ευχαριστώ", "ευχαριστω"],
+      "hint": { "en": "ευχ-α-ρι-στώ...", "sv": "ευχ-α-ρι-στώ..." },
+      "context": "thank you",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l6-004",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'good morning' in Greek?", "sv": "Hur säger man 'god morgon' på grekiska?" },
+      "correctAnswer": "Καλημέρα!",
+      "acceptableAnswers": ["Καλημέρα!", "Καλημέρα", "καλημέρα"],
+      "hint": { "en": "Καλη + μέρα...", "sv": "Καλη + μέρα..." },
+      "context": "good morning",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l6-005",
+      "type": "free_typing",
+      "prompt": { "en": "It's 8 PM. How do you greet someone in Greek?", "sv": "Klockan är 20. Hur hälsar du på någon på grekiska?" },
+      "correctAnswer": "Καλησπέρα!",
+      "acceptableAnswers": ["Καλησπέρα!", "Καλησπέρα", "καλησπέρα"],
+      "hint": { "en": "Evening greeting...", "sv": "Kvällshälsning..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l6-006",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Καληνύχτα!",
+      "correctAnswer": "Good night!",
+      "acceptableAnswers": ["Good night!", "Good night", "God natt"],
+      "hint": { "en": "Said before going to sleep.", "sv": "Sägs innan man somnar." },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l6-007",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Γεια σου! Ευχαριστώ! Παρακαλώ!",
+      "correctAnswer": "Hello! Thank you! You're welcome!",
+      "acceptableAnswers": ["Hello! Thank you! You're welcome!", "Hi! Thank you! You're welcome!", "Hello! Thank you! Please!"],
+      "hint": { "en": "Three essential phrases in a row.", "sv": "Tre viktiga fraser i rad." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c1l6-008",
+      "type": "translation_g2e",
+      "prompt": { "en": "What sound does Β make?", "sv": "Vilket ljud gör Β?" },
+      "promptGreek": "Β",
+      "correctAnswer": "v",
+      "acceptableAnswers": ["v", "V"],
+      "hint": { "en": "Not B!", "sv": "Inte B!" },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l6-009",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this word mean?", "sv": "Vad betyder detta ord?" },
+      "promptGreek": "αεροδρόμιο",
+      "correctAnswer": "airport",
+      "acceptableAnswers": ["airport", "Airport", "flygplats"],
+      "hint": { "en": "Aero + drome...", "sv": "Aero + drom..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l6-010",
+      "type": "free_typing",
+      "prompt": { "en": "Someone says 'Ευχαριστώ!' — how do you respond?", "sv": "Någon säger 'Ευχαριστώ!' — hur svarar du?" },
+      "correctAnswer": "Παρακαλώ!",
+      "acceptableAnswers": ["Παρακαλώ!", "Παρακαλώ", "παρακαλώ"],
+      "hint": { "en": "The Greek word for 'you're welcome'.", "sv": "Det grekiska ordet för 'varsågod'." },
+      "xpBase": 10
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 120,
+    "drillIds": ["d-w1c1l6-001", "d-w1c1l6-002", "d-w1c1l6-003", "d-w1c1l6-004", "d-w1c1l6-005", "d-w1c1l6-006"]
+  },
+  "newVocabulary": [],
+  "newGrammarIds": [],
+  "idiom": {
+    "greek": "Καλώς ήρθες!",
+    "literal": { "en": "Well you came!", "sv": "Bra kom du!" },
+    "meaning": { "en": "Welcome!", "sv": "Välkommen!" },
+    "usage": { "en": "Said to someone who has just arrived. Use 'Καλώς ήρθες' for one person (informal) and 'Καλώς ήρθατε' for formal/plural.", "sv": "Sägs till någon som just har anlänt. Använd 'Καλώς ήρθες' för en person (informellt) och 'Καλώς ήρθατε' för formellt/plural." },
+    "example": {
+      "greek": "Καλώς ήρθες στην Ελλάδα!",
+      "translation": { "en": "Welcome to Greece!", "sv": "Välkommen till Grekland!" }
+    }
+  }
+}

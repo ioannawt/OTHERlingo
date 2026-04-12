@@ -1,0 +1,513 @@
+[
+  {
+    "id": "gr-alphabet-001",
+    "title": {
+      "en": "The Greek Alphabet - Your New Sound Map",
+      "sv": "Det grekiska alfabetet - din nya ljudkarta"
+    },
+    "titleGreek": "Το ελληνικό αλφάβητο",
+    "cefrLevel": "A1.1",
+    "category": "pronunciation",
+    "prerequisiteIds": [],
+    "explanation": {
+      "en": "Greek has its own alphabet with 24 letters. Don't worry - many sounds are similar to English and Swedish! The key is learning the letters that look familiar but sound different. For example, the letter P (ρ) is actually an 'r' sound, and H (η) sounds like 'ee'. Once you crack the code, reading Greek becomes much easier. Focus on the tricky ones first, and the rest will follow naturally.",
+      "sv": "Grekiska har ett eget alfabet med 24 bokstäver. Oroa dig inte - många ljud liknar svenska! Nyckeln är att lära sig de bokstäver som ser bekanta ut men låter annorlunda. Till exempel är bokstaven P (ρ) egentligen ett 'r'-ljud, och H (η) låter som 'i'. När du knäcker koden blir det mycket lättare att läsa grekiska. Fokusera på de knepiga först, så följer resten naturligt."
+    },
+    "quickReference": {
+      "en": "24 letters. Watch out for: Ρ/ρ = r, Η/η = ee, Χ/χ = h/kh, Γ/γ = g/y, Δ/δ = th (as in 'this'), Θ/θ = th (as in 'think')",
+      "sv": "24 bokstäver. Se upp för: Ρ/ρ = r, Η/η = i, Χ/χ = h/kh, Γ/γ = g/j, Δ/δ = th (som i engelska 'this'), Θ/θ = th (som i engelska 'think')"
+    },
+    "tables": [
+      {
+        "title": { "en": "Tricky Letters for English/Swedish Speakers", "sv": "Knepiga bokstäver för engelska/svenska talare" },
+        "headers": ["Greek Letter", "Name", "Sound", "Example"],
+        "rows": [
+          ["Β β", "víta", "v (not b!)", "βιβλίο (vivlío) = book"],
+          ["Γ γ", "gáma", "g before a/o, y before e/i", "γεια (yia) = hello"],
+          ["Δ δ", "délta", "th as in 'this'", "δέκα (déka) = ten"],
+          ["Η η", "íta", "ee (not H!)", "ήλιος (ílios) = sun"],
+          ["Θ θ", "thíta", "th as in 'think'", "θέλω (thélo) = I want"],
+          ["Ρ ρ", "ro", "rolled r (not P!)", "ρόδα (róda) = wheel"],
+          ["Χ χ", "hi", "h / kh (not X!)", "χέρι (héri) = hand"],
+          ["Ψ ψ", "psi", "ps", "ψωμί (psomí) = bread"],
+          ["Ω ω", "oméga", "o (same as Ο ο)", "ώρα (óra) = hour"]
+        ]
+      },
+      {
+        "title": { "en": "Common Letter Combinations", "sv": "Vanliga bokstavskombinationer" },
+        "headers": ["Combination", "Sound", "Example"],
+        "rows": [
+          ["ΟΥ ου", "oo", "ούζο (oúzo)"],
+          ["ΑΙ αι", "e", "και (ke) = and"],
+          ["ΕΙ ει", "ee", "είμαι (íme) = I am"],
+          ["ΟΙ οι", "ee", "οικογένεια (ikogénia) = family"],
+          ["ΜΠ μπ", "b (start) / mb (middle)", "μπίρα (bíra) = beer"],
+          ["ΝΤ ντ", "d (start) / nd (middle)", "ντομάτα (domáta) = tomato"],
+          ["ΓΚ γκ", "g (start) / ng (middle)", "γκαράζ (garáz) = garage"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Γεια σου!",
+        "romanized": "Yia sou!",
+        "english": "Hello!",
+        "swedish": "Hej!",
+        "notes": "γ before ε sounds like 'y'"
+      },
+      {
+        "greek": "Ευχαριστώ πολύ.",
+        "romanized": "Efharistó polí.",
+        "english": "Thank you very much.",
+        "swedish": "Tack så mycket.",
+        "notes": "ευ = 'ef' before voiceless consonants"
+      }
+    ],
+    "swedishParallel": "Swedish and Greek share some sounds that English doesn't have, like the rolled 'r' (ρ). The Greek 'y' sound in γ (before e/i) is similar to Swedish 'j'. Think of γεια like saying 'jia'.",
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "gr-einai-001",
+    "title": {
+      "en": "The Verb 'To Be' - είμαι",
+      "sv": "Verbet 'att vara' - είμαι"
+    },
+    "titleGreek": "Το ρήμα «είμαι»",
+    "cefrLevel": "A1.1",
+    "category": "verb",
+    "prerequisiteIds": ["gr-alphabet-001"],
+    "explanation": {
+      "en": "Just like in English and Swedish, 'to be' is one of the most important verbs - and it's irregular! The good news: Greek verb endings already tell you WHO is doing the action, so you can often drop the pronoun. 'Είμαι Μαρία' (I'm Maria) works perfectly without saying 'εγώ' (I). You only add the pronoun for emphasis.",
+      "sv": "Precis som på engelska och svenska är 'att vara' ett av de viktigaste verben - och det är oregelbundet! Den goda nyheten: grekiska verbändelser berättar redan VEM som gör handlingen, så du kan ofta utelämna pronomenet. 'Είμαι Μαρία' (Jag är Maria) fungerar perfekt utan att säga 'εγώ' (jag). Du lägger bara till pronomenet för betoning."
+    },
+    "quickReference": {
+      "en": "είμαι (I am), είσαι (you are), είναι (he/she/it is), είμαστε (we are), είστε (you are pl.), είναι (they are)",
+      "sv": "είμαι (jag är), είσαι (du är), είναι (han/hon/det är), είμαστε (vi är), είστε (ni är), είναι (de är)"
+    },
+    "tables": [
+      {
+        "title": { "en": "Present Tense - είμαι (to be)", "sv": "Presens - είμαι (att vara)" },
+        "headers": ["Pronoun", "Greek", "Romanized", "English", "Swedish"],
+        "rows": [
+          ["εγώ", "είμαι", "íme", "I am", "jag är"],
+          ["εσύ", "είσαι", "íse", "you are", "du är"],
+          ["αυτός/ή/ό", "είναι", "íne", "he/she/it is", "han/hon/det är"],
+          ["εμείς", "είμαστε", "ímaste", "we are", "vi är"],
+          ["εσείς", "είστε", "íste", "you are (pl./formal)", "ni är"],
+          ["αυτοί/ές/ά", "είναι", "íne", "they are", "de är"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Είμαι από τη Σουηδία.",
+        "romanized": "Íme apó ti Souidía.",
+        "english": "I'm from Sweden.",
+        "swedish": "Jag är från Sverige."
+      },
+      {
+        "greek": "Είσαι φοιτητής;",
+        "romanized": "Íse fititís?",
+        "english": "Are you a student?",
+        "swedish": "Är du student?"
+      },
+      {
+        "greek": "Αυτή είναι η Μαρία.",
+        "romanized": "Aftí íne i María.",
+        "english": "She is Maria. / This is Maria.",
+        "swedish": "Hon är Maria. / Det här är Maria."
+      },
+      {
+        "greek": "Είμαστε φίλοι.",
+        "romanized": "Ímaste fíloi.",
+        "english": "We are friends.",
+        "swedish": "Vi är vänner."
+      }
+    ],
+    "swedishParallel": "Like Swedish 'är' (which is the same for all persons), Greek 'είναι' is used for both 'he/she/it is' AND 'they are'. But unlike Swedish, the other forms change: είμαι, είσαι, είμαστε, είστε.",
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "gr-pronouns-001",
+    "title": {
+      "en": "Subject Pronouns - Who's Who",
+      "sv": "Subjektspronomen - vem är vem"
+    },
+    "titleGreek": "Προσωπικές αντωνυμίες (υποκείμενο)",
+    "cefrLevel": "A1.1",
+    "category": "pronoun",
+    "prerequisiteIds": ["gr-alphabet-001"],
+    "explanation": {
+      "en": "Greek has subject pronouns like English, but here's the twist: you usually DON'T need them! Since Greek verb endings already show who's doing the action, pronouns are mainly used for emphasis or to avoid confusion. 'Θέλω καφέ' (I want coffee) is perfectly clear without 'εγώ'. But notice that Greek has THREE third-person forms because of the three genders: αυτός (he), αυτή (she), αυτό (it) - and the same in plural.",
+      "sv": "Grekiska har subjektspronomen som svenska, men här är tricket: du behöver dem vanligtvis INTE! Eftersom grekiska verbändelser redan visar vem som gör handlingen, används pronomen främst för betoning eller för att undvika förvirring. 'Θέλω καφέ' (Jag vill ha kaffe) är helt tydligt utan 'εγώ'. Men observera att grekiska har TRE tredjepersonsformer på grund av tre genus: αυτός (han), αυτή (hon), αυτό (det) - och samma sak i plural."
+    },
+    "quickReference": {
+      "en": "εγώ (I), εσύ (you), αυτός/αυτή/αυτό (he/she/it), εμείς (we), εσείς (you pl./formal), αυτοί/αυτές/αυτά (they m/f/n). Pronouns are optional - verb endings tell you who!",
+      "sv": "εγώ (jag), εσύ (du), αυτός/αυτή/αυτό (han/hon/det), εμείς (vi), εσείς (ni), αυτοί/αυτές/αυτά (de m/f/n). Pronomen är valfria - verbändelserna visar vem!"
+    },
+    "tables": [
+      {
+        "title": { "en": "Subject Pronouns", "sv": "Subjektspronomen" },
+        "headers": ["Person", "Greek", "Romanized", "English", "Swedish"],
+        "rows": [
+          ["1st singular", "εγώ", "egó", "I", "jag"],
+          ["2nd singular", "εσύ", "esí", "you", "du"],
+          ["3rd singular (m)", "αυτός", "aftós", "he", "han"],
+          ["3rd singular (f)", "αυτή", "aftí", "she", "hon"],
+          ["3rd singular (n)", "αυτό", "aftó", "it", "det/den"],
+          ["1st plural", "εμείς", "emís", "we", "vi"],
+          ["2nd plural/formal", "εσείς", "esís", "you (pl./formal)", "ni"],
+          ["3rd plural (m)", "αυτοί", "aftí", "they (m)", "de"],
+          ["3rd plural (f)", "αυτές", "aftés", "they (f)", "de"],
+          ["3rd plural (n)", "αυτά", "aftá", "they (n)", "de"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Εγώ είμαι ο Νίκος, εσύ ποιος είσαι;",
+        "romanized": "Egó íme o Níkos, esí piós íse?",
+        "english": "I am Nikos, who are you? (emphasis on I/you)",
+        "swedish": "JAG är Nikos, vem är DU?"
+      },
+      {
+        "greek": "Αυτή είναι η μαμά μου.",
+        "romanized": "Aftí íne i mamá mou.",
+        "english": "She is my mom.",
+        "swedish": "Hon är min mamma."
+      },
+      {
+        "greek": "Αυτοί είναι φίλοι μου.",
+        "romanized": "Aftí íne fíloi mou.",
+        "english": "They are my friends.",
+        "swedish": "De är mina vänner."
+      }
+    ],
+    "swedishParallel": "Swedish uses 'de' for all third-person plurals, but Greek distinguishes by gender: αυτοί (they, masculine), αυτές (they, feminine), αυτά (they, neuter). Also, Swedish dropped the formal 'Ni' in everyday speech, but Greek still uses εσείς as the polite form with strangers and older people.",
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "gr-questions-001",
+    "title": {
+      "en": "Asking Questions - The Essential Words",
+      "sv": "Att ställa frågor - de viktigaste orden"
+    },
+    "titleGreek": "Ερωτηματικές λέξεις",
+    "cefrLevel": "A1.1",
+    "category": "syntax",
+    "prerequisiteIds": ["gr-einai-001"],
+    "explanation": {
+      "en": "Great news for learners: Greek questions are super easy to form! For yes/no questions, you just change your intonation (raise your voice at the end) - no word order change needed. 'Είσαι από τη Σουηδία.' (statement) becomes 'Είσαι από τη Σουηδία;' (question) just by raising your voice. For other questions, put the question word at the beginning. Note: Greek uses a semicolon (;) as its question mark!",
+      "sv": "Goda nyheter för dig som lär dig: grekiska frågor är superenkla att bilda! För ja/nej-frågor ändrar du bara intonationen (höj rösten i slutet) - ingen ordföljdsändring behövs. 'Είσαι από τη Σουηδία.' (påstående) blir 'Είσαι από τη Σουηδία;' (fråga) bara genom att höja rösten. För andra frågor, sätt frågeordet i början. Obs: Grekiska använder semikolon (;) som frågetecken!"
+    },
+    "quickReference": {
+      "en": "πώς (how), τι (what), πού (where), πότε (when), γιατί (why), ποιος/ποια/ποιο (who/which). Yes/no questions = same word order + rising intonation. Greek ? = ;",
+      "sv": "πώς (hur), τι (vad), πού (var), πότε (när), γιατί (varför), ποιος/ποια/ποιο (vem/vilken). Ja/nej-frågor = samma ordföljd + stigande intonation. Grekiskt ? = ;"
+    },
+    "tables": [
+      {
+        "title": { "en": "Question Words", "sv": "Frågeord" },
+        "headers": ["Greek", "Romanized", "English", "Swedish", "Example"],
+        "rows": [
+          ["πώς;", "pos?", "how?", "hur?", "Πώς είσαι; (How are you?)"],
+          ["τι;", "ti?", "what?", "vad?", "Τι θέλεις; (What do you want?)"],
+          ["πού;", "poú?", "where?", "var?", "Πού είναι; (Where is it?)"],
+          ["πότε;", "póte?", "when?", "när?", "Πότε φεύγεις; (When do you leave?)"],
+          ["γιατί;", "yiatí?", "why?", "varför?", "Γιατί; (Why?)"],
+          ["ποιος/ποια/ποιο;", "piós/piá/pió?", "who/which?", "vem/vilken?", "Ποιος είσαι; (Who are you?)"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Είσαι από τη Σουηδία;",
+        "romanized": "Íse apó ti Souidía?",
+        "english": "Are you from Sweden?",
+        "swedish": "Är du från Sverige?",
+        "notes": "Yes/no question - just intonation change"
+      },
+      {
+        "greek": "Πού είναι το ξενοδοχείο;",
+        "romanized": "Poú íne to xenodohío?",
+        "english": "Where is the hotel?",
+        "swedish": "Var är hotellet?"
+      },
+      {
+        "greek": "Πώς σε λένε;",
+        "romanized": "Pos se léne?",
+        "english": "What is your name? (lit. How do they call you?)",
+        "swedish": "Vad heter du? (ordagrant: Hur kallar de dig?)"
+      },
+      {
+        "greek": "Τι ώρα είναι;",
+        "romanized": "Ti óra íne?",
+        "english": "What time is it?",
+        "swedish": "Vad är klockan?"
+      }
+    ],
+    "swedishParallel": "Unlike Swedish, which inverts word order for yes/no questions (Du är... -> Är du...?), Greek keeps the same word order and just uses intonation. This is actually simpler! However, Greek uses ; as its question mark instead of ?",
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "gr-articles-001",
+    "title": {
+      "en": "Articles - ο, η, το & ένας, μία, ένα",
+      "sv": "Artiklar - ο, η, το & ένας, μία, ένα"
+    },
+    "titleGreek": "Τα άρθρα",
+    "cefrLevel": "A1.1",
+    "category": "article",
+    "prerequisiteIds": ["gr-alphabet-001"],
+    "explanation": {
+      "en": "Greek uses articles before nouns, just like English ('the', 'a'). But there's a twist: articles change based on gender! Every Greek noun is masculine, feminine, or neuter, and the article must match. The definite article ('the') is ο (masculine), η (feminine), or το (neuter). The indefinite article ('a/an') is ένας, μία, or ένα. You'll see the article a LOT in Greek - even before names! Greeks say 'ο Νίκος' and 'η Μαρία'.",
+      "sv": "Grekiska använder artiklar före substantiv, precis som engelska ('the', 'a'). Men det finns en twist: artiklarna ändras baserat på genus! Varje grekiskt substantiv är maskulinum, femininum eller neutrum, och artikeln måste stämma överens. Den bestämda artikeln ('the') är ο (maskulinum), η (femininum) eller το (neutrum). Den obestämda artikeln ('a/an') är ένας, μία eller ένα. Du kommer se artikeln MYCKET på grekiska - till och med före namn! Greker säger 'ο Νίκος' och 'η Μαρία'."
+    },
+    "quickReference": {
+      "en": "Definite: ο (m), η (f), το (n) = 'the'. Indefinite: ένας (m), μία (f), ένα (n) = 'a/an'. Articles go BEFORE the noun. Articles are used before names too!",
+      "sv": "Bestämd: ο (m), η (f), το (n) = 'den/det'. Obestämd: ένας (m), μία (f), ένα (n) = 'en/ett'. Artiklar kommer FÖRE substantivet. Artiklar används även före namn!"
+    },
+    "tables": [
+      {
+        "title": { "en": "Definite Articles (Nominative)", "sv": "Bestämda artiklar (nominativ)" },
+        "headers": ["", "Masculine", "Feminine", "Neuter"],
+        "rows": [
+          ["Singular", "ο (o)", "η (i)", "το (to)"],
+          ["Plural", "οι (i)", "οι (i)", "τα (ta)"]
+        ]
+      },
+      {
+        "title": { "en": "Indefinite Articles", "sv": "Obestämda artiklar" },
+        "headers": ["Masculine", "Feminine", "Neuter"],
+        "rows": [
+          ["ένας (énas)", "μία / μια (mía)", "ένα (éna)"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Ο καφές είναι ζεστός.",
+        "romanized": "O kafés íne zestós.",
+        "english": "The coffee is hot.",
+        "swedish": "Kaffet är varmt."
+      },
+      {
+        "greek": "Η Μαρία είναι φίλη μου.",
+        "romanized": "I María íne fíli mou.",
+        "english": "Maria is my friend.",
+        "swedish": "Maria är min vän.",
+        "notes": "Article before names is common in Greek!"
+      },
+      {
+        "greek": "Θέλω ένα νερό.",
+        "romanized": "Thélo éna neró.",
+        "english": "I want a water.",
+        "swedish": "Jag vill ha ett vatten."
+      },
+      {
+        "greek": "Θέλω έναν καφέ.",
+        "romanized": "Thélo énan kafé.",
+        "english": "I want a coffee.",
+        "swedish": "Jag vill ha en kaffe.",
+        "notes": "ένας becomes έναν in the accusative (object) case"
+      }
+    ],
+    "swedishParallel": "Swedish places the definite article as a suffix on the noun (hus -> huset, bok -> boken), while Greek places it before the noun (σπίτι -> το σπίτι, βιβλίο -> το βιβλίο). Swedish has 2 genders for articles (en/ett), Greek has 3 (ο/η/το). Think of Greek articles as working more like English 'the' and 'a' - they come first.",
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "gr-gender-001",
+    "title": {
+      "en": "Three Genders - Masculine, Feminine, Neuter",
+      "sv": "Tre genus - maskulinum, femininum, neutrum"
+    },
+    "titleGreek": "Τα γένη: αρσενικό, θηλυκό, ουδέτερο",
+    "cefrLevel": "A1.1",
+    "category": "noun",
+    "prerequisiteIds": ["gr-articles-001"],
+    "explanation": {
+      "en": "Every Greek noun has a gender: masculine (ο), feminine (η), or neuter (το). This affects articles, adjectives, and more. The good news? There are helpful patterns! Most masculine nouns end in -ος, -ας, or -ης. Most feminine nouns end in -α or -η. Most neuter nouns end in -ο, -ι, or -μα. Learn the article with each noun from the start - think of 'ο καφές' as one unit, not just 'καφές'. Gender doesn't always match logic: a table is neuter, a chair is feminine!",
+      "sv": "Varje grekiskt substantiv har ett genus: maskulinum (ο), femininum (η) eller neutrum (το). Detta påverkar artiklar, adjektiv och mer. Den goda nyheten? Det finns hjälpsamma mönster! De flesta maskulina substantiv slutar på -ος, -ας eller -ης. De flesta feminina substantiv slutar på -α eller -η. De flesta neutra substantiv slutar på -ο, -ι eller -μα. Lär dig artikeln med varje substantiv från början - tänk på 'ο καφές' som en enhet, inte bara 'καφές'. Genus stämmer inte alltid logiskt: ett bord är neutrum, en stol är femininum!"
+    },
+    "quickReference": {
+      "en": "Masculine (ο): -ος, -ας, -ης. Feminine (η): -α, -η. Neuter (το): -ο, -ι, -μα. Always learn the article WITH the noun!",
+      "sv": "Maskulinum (ο): -ος, -ας, -ης. Femininum (η): -α, -η. Neutrum (το): -ο, -ι, -μα. Lär dig alltid artikeln TILLSAMMANS med substantivet!"
+    },
+    "tables": [
+      {
+        "title": { "en": "Common Gender Patterns", "sv": "Vanliga genusmönster" },
+        "headers": ["Gender", "Common Endings", "Examples"],
+        "rows": [
+          ["Masculine (ο)", "-ος, -ας, -ής, -ές", "ο καφές, ο φίλος, ο άντρας"],
+          ["Feminine (η)", "-α, -η, -ση, -ξη", "η ώρα, η στάση, η φίλη"],
+          ["Neuter (το)", "-ο, -ι, -μα, -ος", "το νερό, το ταξί, το δωμάτιο"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "ο καφές (masculine)",
+        "romanized": "o kafés",
+        "english": "the coffee",
+        "swedish": "kaffet",
+        "notes": "Ends in -ές -> masculine"
+      },
+      {
+        "greek": "η στάση (feminine)",
+        "romanized": "i stási",
+        "english": "the stop/station",
+        "swedish": "hållplatsen",
+        "notes": "Ends in -η -> feminine"
+      },
+      {
+        "greek": "το νερό (neuter)",
+        "romanized": "to neró",
+        "english": "the water",
+        "swedish": "vattnet",
+        "notes": "Ends in -ό -> neuter"
+      }
+    ],
+    "swedishParallel": "Swedish has 2 genders: common (en) and neuter (ett). Greek has 3: masculine (ο), feminine (η), and neuter (το). The concept is similar though - you need to memorize which gender each noun is. In Swedish you say 'en stol' (a chair), in Greek it's 'μια καρέκλα' (feminine). The extra gender takes some getting used to, but the ending patterns help a lot!",
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "gr-numbers-001",
+    "title": {
+      "en": "Numbers 1-10 - Counting in Greek",
+      "sv": "Siffrorna 1-10 - att räkna på grekiska"
+    },
+    "titleGreek": "Αριθμοί 1-10",
+    "cefrLevel": "A1.1",
+    "category": "numeral",
+    "prerequisiteIds": ["gr-gender-001"],
+    "explanation": {
+      "en": "Numbers in Greek are mostly straightforward, but here's the catch: the numbers 1, 3, and 4 change form depending on the gender of the noun they describe! 'One coffee' is 'ένας καφές' (masculine), but 'one water' is 'ένα νερό' (neuter). Numbers 5-10 stay the same regardless of gender. Start with the basic forms and the gender variations will come naturally with practice.",
+      "sv": "Siffror på grekiska är för det mesta rättframma, men här är haken: siffrorna 1, 3 och 4 ändrar form beroende på genuset hos substantivet de beskriver! 'En kaffe' är 'ένας καφές' (maskulinum), men 'ett vatten' är 'ένα νερό' (neutrum). Siffrorna 5-10 förblir desamma oavsett genus. Börja med grundformerna så kommer genusvariationerna naturligt med övning."
+    },
+    "quickReference": {
+      "en": "1 = ένας/μία/ένα (changes by gender), 2 = δύο, 3 = τρεις/τρεις/τρία (changes), 4 = τέσσερις/τέσσερις/τέσσερα (changes), 5-10 = πέντε, έξι, εφτά, οχτώ, εννιά, δέκα (no change)",
+      "sv": "1 = ένας/μία/ένα (ändras efter genus), 2 = δύο, 3 = τρεις/τρεις/τρία (ändras), 4 = τέσσερις/τέσσερις/τέσσερα (ändras), 5-10 = πέντε, έξι, εφτά, οχτώ, εννιά, δέκα (ändras inte)"
+    },
+    "tables": [
+      {
+        "title": { "en": "Numbers 1-10", "sv": "Siffrorna 1-10" },
+        "headers": ["Number", "Masculine", "Feminine", "Neuter", "Swedish"],
+        "rows": [
+          ["1", "ένας (énas)", "μία (mía)", "ένα (éna)", "en / ett"],
+          ["2", "δύο (dío)", "δύο", "δύο", "två"],
+          ["3", "τρεις (trís)", "τρεις (trís)", "τρία (tría)", "tre"],
+          ["4", "τέσσερις (tésseris)", "τέσσερις (tésseris)", "τέσσερα (téssera)", "fyra"],
+          ["5", "πέντε (pénde)", "—", "—", "fem"],
+          ["6", "έξι (éxi)", "—", "—", "sex"],
+          ["7", "εφτά (eftá)", "—", "—", "sju"],
+          ["8", "οχτώ (ohtó)", "—", "—", "åtta"],
+          ["9", "εννιά (enniá)", "—", "—", "nio"],
+          ["10", "δέκα (déka)", "—", "—", "tio"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Ένας καφές, παρακαλώ.",
+        "romanized": "Énas kafés, parakaló.",
+        "english": "One coffee, please.",
+        "swedish": "En kaffe, tack.",
+        "notes": "ένας because καφές is masculine"
+      },
+      {
+        "greek": "Δύο νερά, παρακαλώ.",
+        "romanized": "Dío nerá, parakaló.",
+        "english": "Two waters, please.",
+        "swedish": "Två vatten, tack."
+      },
+      {
+        "greek": "Τρία δωμάτια.",
+        "romanized": "Tría domátia.",
+        "english": "Three rooms.",
+        "swedish": "Tre rum.",
+        "notes": "τρία because δωμάτιο is neuter"
+      },
+      {
+        "greek": "Πέντε ευρώ.",
+        "romanized": "Pénde evró.",
+        "english": "Five euros.",
+        "swedish": "Fem euro."
+      }
+    ],
+    "swedishParallel": "Swedish numbers don't change by gender (always 'tre' regardless of en/ett-word). Greek numbers 1, 3, and 4 do change, similar to how Swedish adjectives change between en/ett forms (stor/stort). Think of it like: 'en stor' vs 'ett stort' -> 'ένας μεγάλος' vs 'ένα μεγάlo'.",
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "gr-present-basic-001",
+    "title": {
+      "en": "Present Tense - Regular -ω Verbs (Group A)",
+      "sv": "Presens - regelbundna -ω-verb (grupp A)"
+    },
+    "titleGreek": "Ενεστώτας - ρήματα σε -ω (Ομάδα Α)",
+    "cefrLevel": "A1.1",
+    "category": "verb",
+    "prerequisiteIds": ["gr-einai-001", "gr-pronouns-001"],
+    "explanation": {
+      "en": "Regular Greek verbs follow predictable patterns. Group A verbs (the most common) end in -ω in the first person. The endings change to show who is doing the action: -ω (I), -εις (you), -ει (he/she/it), -ουμε (we), -ετε (you pl.), -ουν(ε) (they). Since the endings are so clear, you can skip the pronoun most of the time. Just learn these 6 endings and you can conjugate hundreds of verbs!",
+      "sv": "Regelbundna grekiska verb följer förutsägbara mönster. Grupp A-verb (de vanligaste) slutar på -ω i första person. Ändelserna ändras för att visa vem som gör handlingen: -ω (jag), -εις (du), -ει (han/hon/det), -ουμε (vi), -ετε (ni), -ουν(ε) (de). Eftersom ändelserna är så tydliga kan du hoppa över pronomenet för det mesta. Lär dig bara dessa 6 ändelser så kan du böja hundratals verb!"
+    },
+    "quickReference": {
+      "en": "Stem + endings: -ω, -εις, -ει, -ουμε, -ετε, -ουν(ε). Example: θέλ-ω, θέλ-εις, θέλ-ει, θέλ-ουμε, θέλ-ετε, θέλ-ουν(ε)",
+      "sv": "Stam + ändelser: -ω, -εις, -ει, -ουμε, -ετε, -ουν(ε). Exempel: θέλ-ω, θέλ-εις, θέλ-ει, θέλ-ουμε, θέλ-ετε, θέλ-ουν(ε)"
+    },
+    "tables": [
+      {
+        "title": { "en": "Group A Verb Endings (-ω verbs)", "sv": "Grupp A verbändelser (-ω-verb)" },
+        "headers": ["Person", "Ending", "θέλω (want)", "γράφω (write)", "English"],
+        "rows": [
+          ["εγώ", "-ω", "θέλω", "γράφω", "I want / I write"],
+          ["εσύ", "-εις", "θέλεις", "γράφεις", "you want / you write"],
+          ["αυτός/ή/ό", "-ει", "θέλει", "γράφει", "he/she wants / writes"],
+          ["εμείς", "-ουμε", "θέλουμε", "γράφουμε", "we want / we write"],
+          ["εσείς", "-ετε", "θέλετε", "γράφετε", "you want / you write"],
+          ["αυτοί/ές/ά", "-ουν(ε)", "θέλουν(ε)", "γράφουν(ε)", "they want / they write"]
+        ]
+      },
+      {
+        "title": { "en": "πάω (I go) - slightly irregular Group A", "sv": "πάω (jag går) - lite oregelbundet grupp A" },
+        "headers": ["Person", "Greek", "Romanized", "Swedish"],
+        "rows": [
+          ["εγώ", "πάω", "páo", "jag går"],
+          ["εσύ", "πας", "pas", "du går"],
+          ["αυτός/ή/ό", "πάει", "pái", "han/hon går"],
+          ["εμείς", "πάμε", "páme", "vi går"],
+          ["εσείς", "πάτε", "páte", "ni går"],
+          ["αυτοί/ές/ά", "πάνε", "páne", "de går"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω έναν καφέ.",
+        "romanized": "Thélo énan kafé.",
+        "english": "I want a coffee.",
+        "swedish": "Jag vill ha en kaffe."
+      },
+      {
+        "greek": "Θέλεις νερό;",
+        "romanized": "Thélis neró?",
+        "english": "Do you want water?",
+        "swedish": "Vill du ha vatten?"
+      },
+      {
+        "greek": "Πάμε στο μετρό.",
+        "romanized": "Páme sto metró.",
+        "english": "Let's go to the metro. / We're going to the metro.",
+        "swedish": "Vi går till tunnelbanan.",
+        "notes": "Πάμε is also commonly used as 'Let's go!'"
+      },
+      {
+        "greek": "Πού πάτε;",
+        "romanized": "Poú páte?",
+        "english": "Where are you going?",
+        "swedish": "Vart går ni?"
+      }
+    ],
+    "swedishParallel": "Swedish verbs don't change by person at all (jag vill, du vill, han vill - always 'vill'). Greek verbs change every time! This is the biggest adjustment for Swedish speakers. The upside: since the ending tells you WHO, you can skip 'jag/du/han'. Think of each ending as a built-in pronoun.",
+    "lessonId": "w1-c1-l5"
+  }
+]

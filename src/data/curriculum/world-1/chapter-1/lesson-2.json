@@ -1,0 +1,140 @@
+{
+  "id": "w1-c1-l2",
+  "chapterId": "w1-c1",
+  "number": 2,
+  "title": { "en": "The Greek Alphabet Part 2", "sv": "Det grekiska alfabetet del 2" },
+  "titleGreek": "Το ελληνικό αλφάβητο 2",
+  "estimatedMinutes": 10,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ περπατάει στο αεροδρόμιο. Βλέπει μια μεγάλη πινακίδα: ΕΞΟΔΟΣ.",
+        "english": "Alex walks through the airport. He sees a big sign: EXIT.",
+        "swedish": "Alex går genom flygplatsen. Han ser en stor skylt: UTGÅNG.",
+        "highlightWords": ["v-exodos-001"],
+        "speakerNote": "Alex navigates the airport"
+      },
+      {
+        "greek": "Δίπλα υπάρχει μια άλλη πινακίδα: ΕΙΣΟΔΟΣ. Και μια ακόμα: ΜΕΤΡΟ. Και ένα κίτρινο ΤΑΞΙ.",
+        "english": "Next to it there is another sign: ENTRANCE. And one more: METRO. And a yellow TAXI.",
+        "swedish": "Bredvid finns en annan skylt: INGÅNG. Och en till: METRO. Och en gul TAXI.",
+        "highlightWords": ["v-eisodos-001", "v-metro-001", "v-taxi-001"],
+        "speakerNote": "Alex reads more signs and starts recognizing consonants"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Τι βλέπει ο Αλεξ;",
+        "question": { "en": "What does Alex see?", "sv": "Vad ser Alex?" },
+        "answerGreek": "Βλέπει πινακίδες: ΕΞΟΔΟΣ, ΕΙΣΟΔΟΣ, ΜΕΤΡΟ, ΤΑΞΙ.",
+        "answer": { "en": "He sees signs: EXIT, ENTRANCE, METRO, TAXI.", "sv": "Han ser skyltar: UTGÅNG, INGÅNG, METRO, TAXI." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-consonants1-001",
+    "title": { "en": "First Consonants: Κ, Λ, Μ, Ν, Σ/ς", "sv": "Första konsonanterna: Κ, Λ, Μ, Ν, Σ/ς" },
+    "explanation": {
+      "en": "Time for consonants! These five are easy because they sound similar to their Latin equivalents. Κ = K, Λ = L, Μ = M, Ν = N, Σ = S. Notice that Σ has a special form ς when it comes at the END of a word (like in ΕΞΟΔΟΣ → έξοδος).",
+      "sv": "Dags för konsonanter! Dessa fem är enkla eftersom de låter som sina latinska motsvarigheter. Κ = K, Λ = L, Μ = M, Ν = N, Σ = S. Observera att Σ har en specialform ς när den kommer i SLUTET av ett ord (som i ΕΞΟΔΟΣ → έξοδος)."
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "Κ / κ = K sound", "sv": "Κ / κ = K-ljud" }, "greek": "Κ κ — κα, κε, κι", "translation": { "en": "ka, ke, ki", "sv": "ka, ke, ki" } },
+      { "step": 2, "instruction": { "en": "Λ / λ = L sound", "sv": "Λ / λ = L-ljud" }, "greek": "Λ λ — λα, λε, λι", "translation": { "en": "la, le, li", "sv": "la, le, li" } },
+      { "step": 3, "instruction": { "en": "Μ / μ = M sound", "sv": "Μ / μ = M-ljud" }, "greek": "Μ μ — μα, με, μι", "translation": { "en": "ma, me, mi", "sv": "ma, me, mi" } },
+      { "step": 4, "instruction": { "en": "Ν / ν = N sound", "sv": "Ν / ν = N-ljud" }, "greek": "Ν ν — να, νε, νι", "translation": { "en": "na, ne, ni", "sv": "na, ne, ni" } },
+      { "step": 5, "instruction": { "en": "Σ / σ / ς = S sound (ς at end of word)", "sv": "Σ / σ / ς = S-ljud (ς i slutet av ord)" }, "greek": "Σ σ ς — σα, σε, σι", "translation": { "en": "sa, se, si", "sv": "sa, se, si" } }
+    ],
+    "examples": [
+      {
+        "greek": "ΕΞΟΔΟΣ → έξοδος",
+        "translation": { "en": "Exit", "sv": "Utgång" },
+        "breakdown": [
+          { "part": "ΕΞ-Ο-ΔΟ-Σ", "label": { "en": "Notice the final Σ becomes ς in lowercase: έξοδος", "sv": "Lägg märke till att slutliga Σ blir ς i gemener: έξοδος" } }
+        ]
+      },
+      {
+        "greek": "μετρό",
+        "translation": { "en": "Metro", "sv": "Tunnelbana" },
+        "breakdown": [
+          { "part": "με-τρό", "label": { "en": "μ (m) + ε (e) + τ (t) + ρ (r) + ό (o)", "sv": "μ (m) + ε (e) + τ (t) + ρ (r) + ό (o)" } }
+        ]
+      }
+    ],
+    "swedishParallel": "These consonants are your friends — K, L, M, N, S sound the same in Swedish! The only thing to remember is the special final-sigma: ς. Think of it like how Swedish 's' stays the same everywhere, but Greek 's' dresses up at the end of a word."
+  },
+  "drills": [
+    {
+      "id": "d-w1c1l2-001",
+      "type": "translation_g2e",
+      "prompt": { "en": "Sound out this syllable:", "sv": "Ljuda ut denna stavelse:" },
+      "promptGreek": "κα",
+      "correctAnswer": "ka",
+      "acceptableAnswers": ["ka", "Ka"],
+      "hint": { "en": "Κ = K, α = a", "sv": "Κ = K, α = a" },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l2-002",
+      "type": "translation_g2e",
+      "prompt": { "en": "Sound out this syllable:", "sv": "Ljuda ut denna stavelse:" },
+      "promptGreek": "νο",
+      "correctAnswer": "no",
+      "acceptableAnswers": ["no", "No"],
+      "hint": { "en": "Ν = N, ο = o", "sv": "Ν = N, ο = o" },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l2-003",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "έξοδος",
+      "correctAnswer": "exit",
+      "acceptableAnswers": ["exit", "Exit", "utgång"],
+      "hint": { "en": "You see this sign when leaving a building.", "sv": "Du ser denna skylt när du lämnar en byggnad." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l2-004",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "είσοδος",
+      "correctAnswer": "entrance",
+      "acceptableAnswers": ["entrance", "Entrance", "entry", "ingång"],
+      "hint": { "en": "The opposite of exit.", "sv": "Motsatsen till utgång." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l2-005",
+      "type": "translation_g2e",
+      "prompt": { "en": "Review: What sound does the Greek letter Η make?", "sv": "Repetition: Vilket ljud gör den grekiska bokstaven Η?" },
+      "promptGreek": "Η",
+      "correctAnswer": "ee",
+      "acceptableAnswers": ["ee", "i", "ih"],
+      "hint": { "en": "Remember — it looks like H but sounds like 'ee'!", "sv": "Kom ihåg — det ser ut som H men låter som 'i'!" },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l2-006",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'no' in Greek?", "sv": "Repetition: Hur säger man 'nej' på grekiska?" },
+      "correctAnswer": "όχι",
+      "acceptableAnswers": ["όχι", "Όχι", "οχι"],
+      "hint": { "en": "Starts with ό...", "sv": "Börjar med ό..." },
+      "context": "no",
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 60,
+    "drillIds": ["d-w1c1l2-001", "d-w1c1l2-002"]
+  },
+  "newVocabulary": [
+    "v-exodos-001",
+    "v-eisodos-001",
+    "v-metro-001",
+    "v-taxi-001"
+  ],
+  "newGrammarIds": ["gr-consonants1-001"],
+  "idiom": null
+}

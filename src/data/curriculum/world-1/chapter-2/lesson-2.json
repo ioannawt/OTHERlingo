@@ -1,0 +1,172 @@
+{
+  "id": "w1-c2-l2",
+  "chapterId": "w1-c2",
+  "number": 2,
+  "title": { "en": "What's Your Name?", "sv": "Vad heter du?" },
+  "titleGreek": "Πώς σε λένε;",
+  "estimatedMinutes": 15,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ γνωρίζει έναν γείτονα στο ξενοδοχείο.",
+        "english": "Alex meets a neighbor at the hotel.",
+        "swedish": "Alex träffar en granne på hotellet.",
+        "highlightWords": ["v-xenodocheio-001"],
+        "speakerNote": "Narrator"
+      },
+      {
+        "greek": "Αλεξ: Γεια σου! Είμαι ο Αλεξ. Πώς σε λένε; Γείτονας: Γεια σου! Με λένε Νίκο. Εσύ;",
+        "english": "Alex: Hello! I am Alex. What's your name? Neighbor: Hello! My name is Niko. You?",
+        "swedish": "Alex: Hej! Jag är Alex. Vad heter du? Granne: Hej! Jag heter Niko. Du då?",
+        "highlightWords": ["v-pos-se-lene-001", "v-me-lene-001"],
+        "speakerNote": "Alex asks someone's name for the first time"
+      },
+      {
+        "greek": "Αλεξ: Με λένε Αλεξ! Νίκος: Τι ωραίο όνομα!",
+        "english": "Alex: My name is Alex! Nikos: What a nice name!",
+        "swedish": "Alex: Jag heter Alex! Nikos: Vilket fint namn!",
+        "highlightWords": ["v-ti-001"],
+        "speakerNote": "A friendly exchange"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Πώς λένε τον γείτονα;",
+        "question": { "en": "What is the neighbor's name?", "sv": "Vad heter grannen?" },
+        "answerGreek": "Τον λένε Νίκο.",
+        "answer": { "en": "His name is Niko.", "sv": "Han heter Niko." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-name-001",
+    "title": { "en": "Asking Names: Πώς σε λένε; / Με λένε...", "sv": "Fråga om namn: Πώς σε λένε; / Με λένε..." },
+    "explanation": {
+      "en": "In Greek, asking someone's name literally translates to 'How do they call you?' — Πώς σε λένε; To answer, say 'They call me...' — Με λένε... This is very different from English or Swedish, but it's the natural Greek way!",
+      "sv": "På grekiska frågar man bokstavligen 'Hur kallar de dig?' — Πώς σε λένε; Svaret är 'De kallar mig...' — Με λένε... Det är väldigt annorlunda från svenska, men det är det naturliga sättet på grekiska!"
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "How? (question word)", "sv": "Hur? (frågeord)" }, "greek": "Πώς;", "translation": { "en": "How?", "sv": "Hur?" } },
+      { "step": 2, "instruction": { "en": "What? (question word)", "sv": "Vad? (frågeord)" }, "greek": "Τι;", "translation": { "en": "What?", "sv": "Vad?" } },
+      { "step": 3, "instruction": { "en": "What's your name? (lit. 'How do they call you?')", "sv": "Vad heter du? (bokst. 'Hur kallar de dig?')" }, "greek": "Πώς σε λένε;", "translation": { "en": "What's your name?", "sv": "Vad heter du?" } },
+      { "step": 4, "instruction": { "en": "My name is... (lit. 'They call me...')", "sv": "Jag heter... (bokst. 'De kallar mig...')" }, "greek": "Με λένε...", "translation": { "en": "My name is...", "sv": "Jag heter..." } }
+    ],
+    "examples": [
+      {
+        "greek": "Πώς σε λένε;",
+        "translation": { "en": "What's your name?", "sv": "Vad heter du?" },
+        "breakdown": [
+          { "part": "Πώς", "label": { "en": "How", "sv": "Hur" } },
+          { "part": "σε", "label": { "en": "you (object)", "sv": "dig" } },
+          { "part": "λένε", "label": { "en": "they call", "sv": "de kallar" } }
+        ]
+      },
+      {
+        "greek": "Με λένε Αλεξ.",
+        "translation": { "en": "My name is Alex.", "sv": "Jag heter Alex." },
+        "breakdown": [
+          { "part": "Με", "label": { "en": "me (object)", "sv": "mig" } },
+          { "part": "λένε", "label": { "en": "they call", "sv": "de kallar" } },
+          { "part": "Αλεξ", "label": { "en": "Alex", "sv": "Alex" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Swedish says 'Vad heter du?' (What are you called?) which is actually quite similar in logic to Greek 'Πώς σε λένε;' (How do they call you?). Both languages use an indirect way of asking — neither says 'What is your name?' directly like English."
+  },
+  "drills": [
+    {
+      "id": "d-w1c2l2-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: What's your name?", "sv": "Översätt till grekiska: Vad heter du?" },
+      "correctAnswer": "Πώς σε λένε;",
+      "acceptableAnswers": ["Πώς σε λένε;", "Πώς σε λένε", "πώς σε λένε;", "πώς σε λένε"],
+      "hint": { "en": "Πώς (how) + σε (you) + λένε (they call)...", "sv": "Πώς (hur) + σε (dig) + λένε (de kallar)..." },
+      "context": "What's your name?",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l2-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: My name is Alex.", "sv": "Översätt till grekiska: Jag heter Alex." },
+      "correctAnswer": "Με λένε Αλεξ.",
+      "acceptableAnswers": ["Με λένε Αλεξ.", "Με λένε Αλεξ", "με λένε Αλεξ"],
+      "hint": { "en": "Με (me) + λένε (they call) + name...", "sv": "Με (mig) + λένε (de kallar) + namn..." },
+      "context": "My name is Alex.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l2-003",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the missing word:", "sv": "Fyll i det saknade ordet:" },
+      "context": "___ σε λένε;",
+      "blankedWord": "Πώς",
+      "correctAnswer": "Πώς",
+      "acceptableAnswers": ["Πώς", "πώς", "Πως", "πως"],
+      "hint": { "en": "The question word meaning 'how'.", "sv": "Frågeordet som betyder 'hur'." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l2-004",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the missing word:", "sv": "Fyll i det saknade ordet:" },
+      "context": "___ λένε Νίκο.",
+      "blankedWord": "Με",
+      "correctAnswer": "Με",
+      "acceptableAnswers": ["Με", "με"],
+      "hint": { "en": "'Me' in Greek — literally 'They call me Niko.'", "sv": "'Mig' på grekiska — bokstavligen 'De kallar mig Niko.'" },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l2-005",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Πώς σε λένε; Με λένε Ελένη.",
+      "correctAnswer": "What's your name? My name is Eleni.",
+      "acceptableAnswers": ["What's your name? My name is Eleni.", "What is your name? My name is Eleni.", "What's your name? I'm called Eleni."],
+      "hint": { "en": "Πώς σε λένε = What's your name, Με λένε = My name is...", "sv": "Πώς σε λένε = Vad heter du, Με λένε = Jag heter..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l2-006",
+      "type": "free_typing",
+      "prompt": { "en": "Someone asks: Πώς σε λένε; — Answer with your own name (or any name).", "sv": "Någon frågar: Πώς σε λένε; — Svara med ditt eget namn (eller vilket namn som helst)." },
+      "correctAnswer": "Με λένε",
+      "acceptableAnswers": ["Με λένε"],
+      "hint": { "en": "Start with Με λένε + your name.", "sv": "Börja med Με λένε + ditt namn." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l2-007",
+      "type": "cloze",
+      "prompt": { "en": "Review: Fill in the correct form of 'to be':", "sv": "Repetition: Fyll i rätt form av 'att vara':" },
+      "context": "Εγώ ___ ο Αλεξ.",
+      "blankedWord": "είμαι",
+      "correctAnswer": "είμαι",
+      "acceptableAnswers": ["είμαι", "ειμαι"],
+      "hint": { "en": "'I am' in Greek...", "sv": "'Jag är' på grekiska..." },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l2-008",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'Good morning' in Greek?", "sv": "Repetition: Hur säger man 'God morgon' på grekiska?" },
+      "correctAnswer": "Καλημέρα!",
+      "acceptableAnswers": ["Καλημέρα!", "Καλημέρα", "καλημέρα"],
+      "hint": { "en": "Καλη + μέρα...", "sv": "Καλη + μέρα..." },
+      "context": "Good morning",
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c2l2-001", "d-w1c2l2-002", "d-w1c2l2-003"]
+  },
+  "newVocabulary": [
+    "v-pos-001",
+    "v-ti-001",
+    "v-me-lene-001",
+    "v-pos-se-lene-001"
+  ],
+  "newGrammarIds": ["gr-name-001"],
+  "idiom": null
+}

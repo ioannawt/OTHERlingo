@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "v-GEIASOU-001",
+    "greek": "γεια σου",
+    "greekRomanized": "yia sou",
+    "english": "hello (informal)",
+    "swedish": "hej",
+    "partOfSpeech": "interjection",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "informal",
+    "exampleSentence": {
+      "greek": "Γεια σου, πώς είσαι;",
+      "english": "Hello, how are you?",
+      "swedish": "Hej, hur mår du?"
+    },
+    "tags": ["chapter-1", "lesson1", "greetings"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-GEIASAS-002",
+    "greek": "γεια σας",
+    "greekRomanized": "yia sas",
+    "english": "hello (formal/plural)",
+    "swedish": "hej (formellt)",
+    "partOfSpeech": "interjection",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "formal",
+    "exampleSentence": {
+      "greek": "Γεια σας, κύριε Παπαδόπουλε.",
+      "english": "Hello, Mr. Papadopoulos.",
+      "swedish": "Hej, herr Papadopoulos."
+    },
+    "tags": ["chapter-1", "lesson1", "greetings"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-KALIMERA-003",
+    "greek": "καλημέρα",
+    "greekRomanized": "kaliméra",
+    "english": "good morning",
+    "swedish": "god morgon",
+    "partOfSpeech": "interjection",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Καλημέρα! Τι κάνεις;",
+      "english": "Good morning! How are you?",
+      "swedish": "God morgon! Hur mår du?"
+    },
+    "tags": ["chapter-1", "lesson1", "greetings"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-KALINYCHTA-004",
+    "greek": "καληνύχτα",
+    "greekRomanized": "kaliníhta",
+    "english": "good night",
+    "swedish": "god natt",
+    "partOfSpeech": "interjection",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Καληνύχτα, τα λέμε αύριο!",
+      "english": "Good night, see you tomorrow!",
+      "swedish": "God natt, vi ses imorgon!"
+    },
+    "tags": ["chapter-1", "lesson1", "greetings"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-NAI-005",
+    "greek": "ναι",
+    "greekRomanized": "ne",
+    "english": "yes",
+    "swedish": "ja",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Ναι, είμαι από την Ελλάδα.",
+      "english": "Yes, I am from Greece.",
+      "swedish": "Ja, jag är från Grekland."
+    },
+    "tags": ["chapter-1", "lesson1", "basics"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-OCHI-006",
+    "greek": "όχι",
+    "greekRomanized": "óhi",
+    "english": "no",
+    "swedish": "nej",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Όχι, δεν είμαι από τη Σουηδία.",
+      "english": "No, I am not from Sweden.",
+      "swedish": "Nej, jag är inte från Sverige."
+    },
+    "tags": ["chapter-1", "lesson1", "basics"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-EFCHARISTO-007",
+    "greek": "ευχαριστώ",
+    "greekRomanized": "efharistó",
+    "english": "thank you",
+    "swedish": "tack",
+    "partOfSpeech": "verb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Ευχαριστώ πολύ!",
+      "english": "Thank you very much!",
+      "swedish": "Tack så mycket!"
+    },
+    "tags": ["chapter-1", "lesson1", "politeness"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-PARAKALO-008",
+    "greek": "παρακαλώ",
+    "greekRomanized": "parakaló",
+    "english": "please / you're welcome",
+    "swedish": "varsågod / snälla",
+    "partOfSpeech": "verb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Έναν καφέ, παρακαλώ.",
+      "english": "A coffee, please.",
+      "swedish": "En kaffe, tack."
+    },
+    "tags": ["chapter-1", "lesson1", "politeness"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-EIMAI-009",
+    "greek": "είμαι",
+    "greekRomanized": "íme",
+    "english": "I am",
+    "swedish": "jag är",
+    "partOfSpeech": "verb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Είμαι φοιτητής.",
+      "english": "I am a student.",
+      "swedish": "Jag är student."
+    },
+    "tags": ["chapter-1", "lesson1", "verbs"],
+    "lessonId": "w1-c1-l1",
+    "conjugation": {
+      "present": {
+        "εγώ": "είμαι",
+        "εσύ": "είσαι",
+        "αυτός/αυτή/αυτό": "είναι",
+        "εμείς": "είμαστε",
+        "εσείς": "είστε / είσαστε",
+        "αυτοί/αυτές/αυτά": "είναι"
+      },
+      "type": "irregular",
+      "notes": "The verb 'to be' is irregular in Greek, like in most languages."
+    }
+  },
+  {
+    "id": "v-EGO-010",
+    "greek": "εγώ",
+    "greekRomanized": "egó",
+    "english": "I",
+    "swedish": "jag",
+    "partOfSpeech": "pronoun",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Εγώ είμαι η Μαρία.",
+      "english": "I am Maria.",
+      "swedish": "Jag är Maria."
+    },
+    "tags": ["chapter-1", "lesson1", "pronouns"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-ESY-011",
+    "greek": "εσύ",
+    "greekRomanized": "esí",
+    "english": "you (singular)",
+    "swedish": "du",
+    "partOfSpeech": "pronoun",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "informal",
+    "exampleSentence": {
+      "greek": "Εσύ από πού είσαι;",
+      "english": "Where are you from?",
+      "swedish": "Var kommer du ifrån?"
+    },
+    "tags": ["chapter-1", "lesson1", "pronouns"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-AFTOS-012",
+    "greek": "αυτός / αυτή / αυτό",
+    "greekRomanized": "aftós / aftí / aftó",
+    "english": "he / she / it",
+    "swedish": "han / hon / den/det",
+    "partOfSpeech": "pronoun",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Αυτός είναι ο Νίκος.",
+      "english": "He is Nikos.",
+      "swedish": "Han är Nikos."
+    },
+    "tags": ["chapter-1", "lesson1", "pronouns"],
+    "lessonId": "w1-c1-l1"
+  },
+  {
+    "id": "v-POS-013",
+    "greek": "πώς",
+    "greekRomanized": "pos",
+    "english": "how",
+    "swedish": "hur",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πώς σε λένε;",
+      "english": "What is your name?",
+      "swedish": "Vad heter du?"
+    },
+    "tags": ["chapter-1", "lesson2", "questions"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-TI-014",
+    "greek": "τι",
+    "greekRomanized": "ti",
+    "english": "what",
+    "swedish": "vad",
+    "partOfSpeech": "pronoun",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Τι κάνεις;",
+      "english": "How are you? / What are you doing?",
+      "swedish": "Hur mår du? / Vad gör du?"
+    },
+    "tags": ["chapter-1", "lesson2", "questions"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-POU-015",
+    "greek": "πού",
+    "greekRomanized": "pou",
+    "english": "where",
+    "swedish": "var",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πού είναι το ξενοδοχείο;",
+      "english": "Where is the hotel?",
+      "swedish": "Var är hotellet?"
+    },
+    "tags": ["chapter-1", "lesson2", "questions"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-MELENE-016",
+    "greek": "με λένε...",
+    "greekRomanized": "me léne...",
+    "english": "my name is... (they call me...)",
+    "swedish": "jag heter...",
+    "partOfSpeech": "phrase",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Με λένε Μαρία. Εσένα πώς σε λένε;",
+      "english": "My name is Maria. What is your name?",
+      "swedish": "Jag heter Maria. Vad heter du?"
+    },
+    "tags": ["chapter-1", "lesson2", "introductions"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-EIMAIAPO-017",
+    "greek": "είμαι από...",
+    "greekRomanized": "íme apó...",
+    "english": "I'm from...",
+    "swedish": "jag kommer från...",
+    "partOfSpeech": "phrase",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Είμαι από τη Σουηδία.",
+      "english": "I'm from Sweden.",
+      "swedish": "Jag kommer från Sverige."
+    },
+    "tags": ["chapter-1", "lesson2", "introductions"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-XENODOCHEIO-018",
+    "greek": "ξενοδοχείο",
+    "greekRomanized": "xenodohío",
+    "english": "hotel",
+    "swedish": "hotell",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 4,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Το ξενοδοχείο είναι εδώ κοντά.",
+      "english": "The hotel is nearby.",
+      "swedish": "Hotellet ligger här nära."
+    },
+    "tags": ["chapter-1", "lesson2", "travel"],
+    "lessonId": "w1-c1-l2",
+    "declension": {
+      "singular": { "nominative": "το ξενοδοχείο", "genitive": "του ξενοδοχείου", "accusative": "το ξενοδοχείο" },
+      "plural": { "nominative": "τα ξενοδοχεία", "genitive": "των ξενοδοχείων", "accusative": "τα ξενοδοχεία" }
+    }
+  },
+  {
+    "id": "v-DOMATIO-019",
+    "greek": "δωμάτιο",
+    "greekRomanized": "domátio",
+    "english": "room",
+    "swedish": "rum",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω ένα δωμάτιο, παρακαλώ.",
+      "english": "I want a room, please.",
+      "swedish": "Jag vill ha ett rum, tack."
+    },
+    "tags": ["chapter-1", "lesson2", "travel"],
+    "lessonId": "w1-c1-l2",
+    "declension": {
+      "singular": { "nominative": "το δωμάτιο", "genitive": "του δωματίου", "accusative": "το δωμάτιο" },
+      "plural": { "nominative": "τα δωμάτια", "genitive": "των δωματίων", "accusative": "τα δωμάτια" }
+    }
+  },
+  {
+    "id": "v-KLEIDI-020",
+    "greek": "κλειδί",
+    "greekRomanized": "klidí",
+    "english": "key",
+    "swedish": "nyckel",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 6,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πού είναι το κλειδί του δωματίου;",
+      "english": "Where is the room key?",
+      "swedish": "Var är rumsnyckeln?"
+    },
+    "tags": ["chapter-1", "lesson2", "travel"],
+    "lessonId": "w1-c1-l2",
+    "declension": {
+      "singular": { "nominative": "το κλειδί", "genitive": "του κλειδιού", "accusative": "το κλειδί" },
+      "plural": { "nominative": "τα κλειδιά", "genitive": "των κλειδιών", "accusative": "τα κλειδιά" }
+    }
+  },
+  {
+    "id": "v-ELLADA-021",
+    "greek": "Ελλάδα",
+    "greekRomanized": "Elláda",
+    "english": "Greece",
+    "swedish": "Grekland",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Η Ελλάδα είναι πολύ ωραία.",
+      "english": "Greece is very beautiful.",
+      "swedish": "Grekland är väldigt vackert."
+    },
+    "tags": ["chapter-1", "lesson2", "countries"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-SOUIDIA-022",
+    "greek": "Σουηδία",
+    "greekRomanized": "Souidía",
+    "english": "Sweden",
+    "swedish": "Sverige",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "cefrLevel": "A1.1",
+    "frequency": 4,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Είμαι από τη Σουηδία.",
+      "english": "I am from Sweden.",
+      "swedish": "Jag är från Sverige."
+    },
+    "tags": ["chapter-1", "lesson2", "countries"],
+    "lessonId": "w1-c1-l2"
+  },
+  {
+    "id": "v-KAFES-023",
+    "greek": "καφές",
+    "greekRomanized": "kafés",
+    "english": "coffee",
+    "swedish": "kaffe",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω έναν καφέ, παρακαλώ.",
+      "english": "I want a coffee, please.",
+      "swedish": "Jag vill ha en kaffe, tack."
+    },
+    "tags": ["chapter-1", "lesson3", "food-drink"],
+    "lessonId": "w1-c1-l3",
+    "declension": {
+      "singular": { "nominative": "ο καφές", "genitive": "του καφέ", "accusative": "τον καφέ" },
+      "plural": { "nominative": "οι καφέδες", "genitive": "των καφέδων", "accusative": "τους καφέδες" }
+    }
+  },
+  {
+    "id": "v-NERO-024",
+    "greek": "νερό",
+    "greekRomanized": "neró",
+    "english": "water",
+    "swedish": "vatten",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Ένα νερό, παρακαλώ.",
+      "english": "A water, please.",
+      "swedish": "Ett vatten, tack."
+    },
+    "tags": ["chapter-1", "lesson3", "food-drink"],
+    "lessonId": "w1-c1-l3",
+    "declension": {
+      "singular": { "nominative": "το νερό", "genitive": "του νερού", "accusative": "το νερό" },
+      "plural": { "nominative": "τα νερά", "genitive": "των νερών", "accusative": "τα νερά" }
+    }
+  },
+  {
+    "id": "v-PSOMI-025",
+    "greek": "ψωμί",
+    "greekRomanized": "psomí",
+    "english": "bread",
+    "swedish": "bröd",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 4,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω λίγο ψωμί.",
+      "english": "I want some bread.",
+      "swedish": "Jag vill ha lite bröd."
+    },
+    "tags": ["chapter-1", "lesson3", "food-drink"],
+    "lessonId": "w1-c1-l3",
+    "declension": {
+      "singular": { "nominative": "το ψωμί", "genitive": "του ψωμιού", "accusative": "το ψωμί" },
+      "plural": { "nominative": "τα ψωμιά", "genitive": "των ψωμιών", "accusative": "τα ψωμιά" }
+    }
+  },
+  {
+    "id": "v-THELO-026",
+    "greek": "θέλω",
+    "greekRomanized": "thélo",
+    "english": "I want",
+    "swedish": "jag vill",
+    "partOfSpeech": "verb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω έναν καφέ.",
+      "english": "I want a coffee.",
+      "swedish": "Jag vill ha en kaffe."
+    },
+    "tags": ["chapter-1", "lesson3", "verbs"],
+    "lessonId": "w1-c1-l3",
+    "conjugation": {
+      "present": {
+        "εγώ": "θέλω",
+        "εσύ": "θέλεις",
+        "αυτός/αυτή/αυτό": "θέλει",
+        "εμείς": "θέλουμε",
+        "εσείς": "θέλετε",
+        "αυτοί/αυτές/αυτά": "θέλουν(ε)"
+      },
+      "type": "irregular",
+      "group": "A"
+    }
+  },
+  {
+    "id": "v-MOUARESEI-027",
+    "greek": "μου αρέσει",
+    "greekRomanized": "mou arési",
+    "english": "I like (it pleases me)",
+    "swedish": "jag gillar / jag tycker om",
+    "partOfSpeech": "phrase",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Μου αρέσει ο ελληνικός καφές.",
+      "english": "I like Greek coffee.",
+      "swedish": "Jag gillar grekiskt kaffe."
+    },
+    "tags": ["chapter-1", "lesson3", "expressions"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-ENAS-028",
+    "greek": "ένας / μία / ένα",
+    "greekRomanized": "énas / mía / éna",
+    "english": "a, an (one)",
+    "swedish": "en / ett",
+    "partOfSpeech": "article",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω έναν καφέ και ένα νερό.",
+      "english": "I want a coffee and a water.",
+      "swedish": "Jag vill ha en kaffe och ett vatten."
+    },
+    "tags": ["chapter-1", "lesson3", "articles"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-OITO-029",
+    "greek": "ο / η / το",
+    "greekRomanized": "o / i / to",
+    "english": "the",
+    "swedish": "-en / -et (bestämd artikel)",
+    "partOfSpeech": "article",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Ο καφές είναι ζεστός.",
+      "english": "The coffee is hot.",
+      "swedish": "Kaffet är varmt."
+    },
+    "tags": ["chapter-1", "lesson3", "articles"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-LIGO-030",
+    "greek": "λίγο",
+    "greekRomanized": "lígo",
+    "english": "a little",
+    "swedish": "lite",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω λίγο νερό.",
+      "english": "I want a little water.",
+      "swedish": "Jag vill ha lite vatten."
+    },
+    "tags": ["chapter-1", "lesson3", "quantity"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-POLY-031",
+    "greek": "πολύ",
+    "greekRomanized": "polí",
+    "english": "very / a lot",
+    "swedish": "mycket / väldigt",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Η Ελλάδα είναι πολύ ωραία.",
+      "english": "Greece is very beautiful.",
+      "swedish": "Grekland är väldigt vackert."
+    },
+    "tags": ["chapter-1", "lesson3", "quantity"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-MEGALO-032",
+    "greek": "μεγάλο",
+    "greekRomanized": "megálo",
+    "english": "big",
+    "swedish": "stor",
+    "partOfSpeech": "adjective",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω έναν μεγάλο καφέ.",
+      "english": "I want a large coffee.",
+      "swedish": "Jag vill ha en stor kaffe."
+    },
+    "tags": ["chapter-1", "lesson3", "adjectives"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-MIKRO-033",
+    "greek": "μικρό",
+    "greekRomanized": "mikró",
+    "english": "small",
+    "swedish": "liten",
+    "partOfSpeech": "adjective",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Ένα μικρό νερό, παρακαλώ.",
+      "english": "A small water, please.",
+      "swedish": "Ett litet vatten, tack."
+    },
+    "tags": ["chapter-1", "lesson3", "adjectives"],
+    "lessonId": "w1-c1-l3"
+  },
+  {
+    "id": "v-ENA-034",
+    "greek": "ένα",
+    "greekRomanized": "éna",
+    "english": "one",
+    "swedish": "ett",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Ένα ευρώ, παρακαλώ.",
+      "english": "One euro, please.",
+      "swedish": "En euro, tack."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-DYO-035",
+    "greek": "δύο",
+    "greekRomanized": "dío",
+    "english": "two",
+    "swedish": "två",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Δύο καφέδες, παρακαλώ.",
+      "english": "Two coffees, please.",
+      "swedish": "Två kaffekoppar, tack."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-TRIA-036",
+    "greek": "τρία",
+    "greekRomanized": "tría",
+    "english": "three",
+    "swedish": "tre",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Τρία δωμάτια, παρακαλώ.",
+      "english": "Three rooms, please.",
+      "swedish": "Tre rum, tack."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-TESSERA-037",
+    "greek": "τέσσερα",
+    "greekRomanized": "téssera",
+    "english": "four",
+    "swedish": "fyra",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 4,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Τέσσερα νερά, παρακαλώ.",
+      "english": "Four waters, please.",
+      "swedish": "Fyra vatten, tack."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-PENTE-038",
+    "greek": "πέντε",
+    "greekRomanized": "pénde",
+    "english": "five",
+    "swedish": "fem",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πέντε ευρώ.",
+      "english": "Five euros.",
+      "swedish": "Fem euro."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-EXI-039",
+    "greek": "έξι",
+    "greekRomanized": "éxi",
+    "english": "six",
+    "swedish": "sex",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 6,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Έξι ώρες.",
+      "english": "Six hours.",
+      "swedish": "Sex timmar."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-EFTA-040",
+    "greek": "εφτά",
+    "greekRomanized": "eftá",
+    "english": "seven",
+    "swedish": "sju",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 7,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Στις εφτά η ώρα.",
+      "english": "At seven o'clock.",
+      "swedish": "Klockan sju."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-OCHTO-041",
+    "greek": "οχτώ",
+    "greekRomanized": "ohtó",
+    "english": "eight",
+    "swedish": "åtta",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 8,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Οχτώ ευρώ.",
+      "english": "Eight euros.",
+      "swedish": "Åtta euro."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-ENNIA-042",
+    "greek": "εννιά",
+    "greekRomanized": "enniá",
+    "english": "nine",
+    "swedish": "nio",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 9,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Εννιά δωμάτια.",
+      "english": "Nine rooms.",
+      "swedish": "Nio rum."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-DEKA-043",
+    "greek": "δέκα",
+    "greekRomanized": "déka",
+    "english": "ten",
+    "swedish": "tio",
+    "partOfSpeech": "numeral",
+    "cefrLevel": "A1.1",
+    "frequency": 10,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Δέκα λεπτά.",
+      "english": "Ten minutes.",
+      "swedish": "Tio minuter."
+    },
+    "tags": ["chapter-1", "lesson4", "numbers"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-EVRO-044",
+    "greek": "ευρώ",
+    "greekRomanized": "evró",
+    "english": "euro",
+    "swedish": "euro",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πόσο κάνει; Τρία ευρώ.",
+      "english": "How much is it? Three euros.",
+      "swedish": "Hur mycket kostar det? Tre euro."
+    },
+    "tags": ["chapter-1", "lesson4", "money"],
+    "lessonId": "w1-c1-l4",
+    "declension": {
+      "singular": { "nominative": "το ευρώ", "genitive": "του ευρώ", "accusative": "το ευρώ" },
+      "plural": { "nominative": "τα ευρώ", "genitive": "των ευρώ", "accusative": "τα ευρώ" },
+      "notes": "Indeclinable - does not change form."
+    }
+  },
+  {
+    "id": "v-POSOKANEI-045",
+    "greek": "πόσο κάνει;",
+    "greekRomanized": "póso káni?",
+    "english": "how much does it cost?",
+    "swedish": "hur mycket kostar det?",
+    "partOfSpeech": "phrase",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πόσο κάνει ο καφές;",
+      "english": "How much does the coffee cost?",
+      "swedish": "Hur mycket kostar kaffet?"
+    },
+    "tags": ["chapter-1", "lesson4", "shopping"],
+    "lessonId": "w1-c1-l4"
+  },
+  {
+    "id": "v-ORA-046",
+    "greek": "ώρα",
+    "greekRomanized": "óra",
+    "english": "time / hour",
+    "swedish": "tid / timme",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Τι ώρα είναι;",
+      "english": "What time is it?",
+      "swedish": "Vad är klockan?"
+    },
+    "tags": ["chapter-1", "lesson4", "time"],
+    "lessonId": "w1-c1-l4",
+    "declension": {
+      "singular": { "nominative": "η ώρα", "genitive": "της ώρας", "accusative": "την ώρα" },
+      "plural": { "nominative": "οι ώρες", "genitive": "των ωρών", "accusative": "τις ώρες" }
+    }
+  },
+  {
+    "id": "v-PAO-047",
+    "greek": "πάω",
+    "greekRomanized": "páo",
+    "english": "I go",
+    "swedish": "jag går / jag åker",
+    "partOfSpeech": "verb",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πάω στο ξενοδοχείο.",
+      "english": "I'm going to the hotel.",
+      "swedish": "Jag går till hotellet."
+    },
+    "tags": ["chapter-1", "lesson5", "verbs", "movement"],
+    "lessonId": "w1-c1-l5",
+    "conjugation": {
+      "present": {
+        "εγώ": "πάω",
+        "εσύ": "πας",
+        "αυτός/αυτή/αυτό": "πάει",
+        "εμείς": "πάμε",
+        "εσείς": "πάτε",
+        "αυτοί/αυτές/αυτά": "πάνε"
+      },
+      "type": "irregular",
+      "group": "B2"
+    }
+  },
+  {
+    "id": "v-ERCHOME-048",
+    "greek": "έρχομαι",
+    "greekRomanized": "érhome",
+    "english": "I come",
+    "swedish": "jag kommer",
+    "partOfSpeech": "verb",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Έρχομαι αμέσως!",
+      "english": "I'm coming right away!",
+      "swedish": "Jag kommer genast!"
+    },
+    "tags": ["chapter-1", "lesson5", "verbs", "movement"],
+    "lessonId": "w1-c1-l5",
+    "conjugation": {
+      "present": {
+        "εγώ": "έρχομαι",
+        "εσύ": "έρχεσαι",
+        "αυτός/αυτή/αυτό": "έρχεται",
+        "εμείς": "ερχόμαστε",
+        "εσείς": "έρχεστε / ερχόσαστε",
+        "αυτοί/αυτές/αυτά": "έρχονται"
+      },
+      "type": "deponent",
+      "notes": "Passive form with active meaning (deponent verb)."
+    }
+  },
+  {
+    "id": "v-TAXI-049",
+    "greek": "ταξί",
+    "greekRomanized": "taxí",
+    "english": "taxi",
+    "swedish": "taxi",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Θέλω ένα ταξί, παρακαλώ.",
+      "english": "I want a taxi, please.",
+      "swedish": "Jag vill ha en taxi, tack."
+    },
+    "tags": ["chapter-1", "lesson5", "transport"],
+    "lessonId": "w1-c1-l5",
+    "declension": {
+      "singular": { "nominative": "το ταξί", "genitive": "του ταξί", "accusative": "το ταξί" },
+      "plural": { "nominative": "τα ταξί", "genitive": "των ταξί", "accusative": "τα ταξί" },
+      "notes": "Indeclinable - does not change form."
+    }
+  },
+  {
+    "id": "v-LEOFOREIO-050",
+    "greek": "λεωφορείο",
+    "greekRomanized": "leoforío",
+    "english": "bus",
+    "swedish": "buss",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Το λεωφορείο είναι εδώ.",
+      "english": "The bus is here.",
+      "swedish": "Bussen är här."
+    },
+    "tags": ["chapter-1", "lesson5", "transport"],
+    "lessonId": "w1-c1-l5",
+    "declension": {
+      "singular": { "nominative": "το λεωφορείο", "genitive": "του λεωφορείου", "accusative": "το λεωφορείο" },
+      "plural": { "nominative": "τα λεωφορεία", "genitive": "των λεωφορείων", "accusative": "τα λεωφορεία" }
+    }
+  },
+  {
+    "id": "v-METRO-051",
+    "greek": "μετρό",
+    "greekRomanized": "metró",
+    "english": "metro / subway",
+    "swedish": "tunnelbana",
+    "partOfSpeech": "noun",
+    "gender": "neuter",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πού είναι το μετρό;",
+      "english": "Where is the metro?",
+      "swedish": "Var är tunnelbanan?"
+    },
+    "tags": ["chapter-1", "lesson5", "transport"],
+    "lessonId": "w1-c1-l5",
+    "declension": {
+      "singular": { "nominative": "το μετρό", "genitive": "του μετρό", "accusative": "το μετρό" },
+      "plural": { "nominative": "τα μετρό", "genitive": "των μετρό", "accusative": "τα μετρό" },
+      "notes": "Indeclinable - does not change form."
+    }
+  },
+  {
+    "id": "v-DEXIA-052",
+    "greek": "δεξιά",
+    "greekRomanized": "dexiá",
+    "english": "right",
+    "swedish": "höger",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Στρίψτε δεξιά.",
+      "english": "Turn right.",
+      "swedish": "Sväng höger."
+    },
+    "tags": ["chapter-1", "lesson5", "directions"],
+    "lessonId": "w1-c1-l5"
+  },
+  {
+    "id": "v-ARISTERA-053",
+    "greek": "αριστερά",
+    "greekRomanized": "aristerá",
+    "english": "left",
+    "swedish": "vänster",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Στρίψτε αριστερά.",
+      "english": "Turn left.",
+      "swedish": "Sväng vänster."
+    },
+    "tags": ["chapter-1", "lesson5", "directions"],
+    "lessonId": "w1-c1-l5"
+  },
+  {
+    "id": "v-EFTHEIA-054",
+    "greek": "ευθεία",
+    "greekRomanized": "efthía",
+    "english": "straight (ahead)",
+    "swedish": "rakt fram",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 6,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πηγαίνετε ευθεία.",
+      "english": "Go straight ahead.",
+      "swedish": "Gå rakt fram."
+    },
+    "tags": ["chapter-1", "lesson5", "directions"],
+    "lessonId": "w1-c1-l5"
+  },
+  {
+    "id": "v-EDO-055",
+    "greek": "εδώ",
+    "greekRomanized": "edó",
+    "english": "here",
+    "swedish": "här",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Το ξενοδοχείο είναι εδώ.",
+      "english": "The hotel is here.",
+      "swedish": "Hotellet är här."
+    },
+    "tags": ["chapter-1", "lesson5", "directions"],
+    "lessonId": "w1-c1-l5"
+  },
+  {
+    "id": "v-EKEI-056",
+    "greek": "εκεί",
+    "greekRomanized": "ekí",
+    "english": "there",
+    "swedish": "där",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 2,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Η στάση είναι εκεί.",
+      "english": "The stop is over there.",
+      "swedish": "Hållplatsen är där."
+    },
+    "tags": ["chapter-1", "lesson5", "directions"],
+    "lessonId": "w1-c1-l5"
+  },
+  {
+    "id": "v-STASI-057",
+    "greek": "στάση",
+    "greekRomanized": "stási",
+    "english": "stop / station",
+    "swedish": "hållplats",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "cefrLevel": "A1.1",
+    "frequency": 6,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Πού είναι η στάση του λεωφορείου;",
+      "english": "Where is the bus stop?",
+      "swedish": "Var är busshållplatsen?"
+    },
+    "tags": ["chapter-1", "lesson5", "transport"],
+    "lessonId": "w1-c1-l5",
+    "declension": {
+      "singular": { "nominative": "η στάση", "genitive": "της στάσης", "accusative": "τη στάση" },
+      "plural": { "nominative": "οι στάσεις", "genitive": "των στάσεων", "accusative": "τις στάσεις" }
+    }
+  },
+  {
+    "id": "v-ENTAXEI-058",
+    "greek": "εντάξει",
+    "greekRomanized": "endáxi",
+    "english": "OK / alright",
+    "swedish": "okej / bra",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 1,
+    "register": "informal",
+    "exampleSentence": {
+      "greek": "Εντάξει, πάμε!",
+      "english": "OK, let's go!",
+      "swedish": "Okej, vi kör!"
+    },
+    "tags": ["chapter-1", "lesson6", "expressions"],
+    "lessonId": "w1-c1-l6"
+  },
+  {
+    "id": "v-SIGOURA-059",
+    "greek": "σίγουρα",
+    "greekRomanized": "sígoura",
+    "english": "sure / certainly",
+    "swedish": "säkert / absolut",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 4,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Σίγουρα, θα σε βοηθήσω.",
+      "english": "Sure, I will help you.",
+      "swedish": "Absolut, jag ska hjälpa dig."
+    },
+    "tags": ["chapter-1", "lesson6", "expressions"],
+    "lessonId": "w1-c1-l6"
+  },
+  {
+    "id": "v-MIPOS-060",
+    "greek": "μήπως",
+    "greekRomanized": "mípos",
+    "english": "maybe / perhaps / by any chance",
+    "swedish": "kanske / möjligen",
+    "partOfSpeech": "adverb",
+    "cefrLevel": "A1.1",
+    "frequency": 5,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Μήπως ξέρεις πού είναι το μετρό;",
+      "english": "Do you happen to know where the metro is?",
+      "swedish": "Vet du kanske var tunnelbanan är?"
+    },
+    "tags": ["chapter-1", "lesson6", "expressions"],
+    "lessonId": "w1-c1-l6"
+  },
+  {
+    "id": "v-ATHINA-061",
+    "greek": "Αθήνα",
+    "greekRomanized": "Athína",
+    "english": "Athens",
+    "swedish": "Aten",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Η Αθήνα είναι πολύ μεγάλη.",
+      "english": "Athens is very big.",
+      "swedish": "Aten är väldigt stort."
+    },
+    "tags": ["chapter-1", "lesson6", "places"],
+    "lessonId": "w1-c1-l6"
+  },
+  {
+    "id": "v-FILOS-062",
+    "greek": "φίλος",
+    "greekRomanized": "fílos",
+    "english": "friend (male)",
+    "swedish": "vän (manlig)",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Αυτός είναι ο φίλος μου, ο Γιάννης.",
+      "english": "This is my friend, Giannis.",
+      "swedish": "Det här är min vän, Giannis."
+    },
+    "tags": ["chapter-1", "lesson6", "people"],
+    "lessonId": "w1-c1-l6",
+    "declension": {
+      "singular": { "nominative": "ο φίλος", "genitive": "του φίλου", "accusative": "τον φίλο" },
+      "plural": { "nominative": "οι φίλοι", "genitive": "των φίλων", "accusative": "τους φίλους" }
+    }
+  },
+  {
+    "id": "v-FILI-063",
+    "greek": "φίλη",
+    "greekRomanized": "fíli",
+    "english": "friend (female)",
+    "swedish": "vän (kvinnlig)",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "cefrLevel": "A1.1",
+    "frequency": 3,
+    "register": "neutral",
+    "exampleSentence": {
+      "greek": "Η φίλη μου είναι από τη Σουηδία.",
+      "english": "My friend is from Sweden.",
+      "swedish": "Min vän är från Sverige."
+    },
+    "tags": ["chapter-1", "lesson6", "people"],
+    "lessonId": "w1-c1-l6",
+    "declension": {
+      "singular": { "nominative": "η φίλη", "genitive": "της φίλης", "accusative": "τη φίλη" },
+      "plural": { "nominative": "οι φίλες", "genitive": "των φίλων", "accusative": "τις φίλες" }
+    }
+  }
+]

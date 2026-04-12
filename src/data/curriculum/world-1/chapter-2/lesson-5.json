@@ -1,0 +1,178 @@
+{
+  "id": "w1-c2-l5",
+  "chapterId": "w1-c2",
+  "number": 5,
+  "title": { "en": "How Are You?", "sv": "Hur mår du?" },
+  "titleGreek": "Πώς είσαι;",
+  "estimatedMinutes": 15,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Είναι πρωί. Ο Αλεξ βλέπει τον Νίκο στο ξενοδοχείο.",
+        "english": "It is morning. Alex sees Nikos at the hotel.",
+        "swedish": "Det är morgon. Alex ser Nikos på hotellet.",
+        "highlightWords": [],
+        "speakerNote": "Narrator"
+      },
+      {
+        "greek": "Αλεξ: Καλημέρα, Νίκο! Πώς είσαι; Νίκος: Είμαι πολύ καλά! Εσύ; Αλεξ: Είμαι καλά, ευχαριστώ!",
+        "english": "Alex: Good morning, Niko! How are you? Nikos: I am very well! You? Alex: I am well, thank you!",
+        "swedish": "Alex: God morgon, Niko! Hur mår du? Nikos: Jag mår mycket bra! Du då? Alex: Jag mår bra, tack!",
+        "highlightWords": ["v-kala-001", "v-poli-001"],
+        "speakerNote": "Morning greetings between friends"
+      },
+      {
+        "greek": "Η Μαρία έρχεται. Μαρία: Καλημέρα! Αλεξ: Πώς είσαι, Μαρία; Μαρία: Έτσι κι έτσι. Δεν είμαι πολύ καλά σήμερα.",
+        "english": "Maria arrives. Maria: Good morning! Alex: How are you, Maria? Maria: So-so. I am not very well today.",
+        "swedish": "Maria kommer. Maria: God morgon! Alex: Hur mår du, Maria? Maria: Sådär. Jag mår inte så bra idag.",
+        "highlightWords": ["v-den-001", "v-etsi-ki-etsi-001"],
+        "speakerNote": "Maria is not feeling great"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Πώς είναι ο Νίκος;",
+        "question": { "en": "How is Nikos?", "sv": "Hur mår Nikos?" },
+        "answerGreek": "Είναι πολύ καλά.",
+        "answer": { "en": "He is very well.", "sv": "Han mår mycket bra." }
+      },
+      {
+        "questionGreek": "Πώς είναι η Μαρία;",
+        "question": { "en": "How is Maria?", "sv": "Hur mår Maria?" },
+        "answerGreek": "Δεν είναι πολύ καλά.",
+        "answer": { "en": "She is not very well.", "sv": "Hon mår inte så bra." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-pos-eisai-001",
+    "title": { "en": "How Are You?: Πώς είσαι; + Negation with Δεν", "sv": "Hur mår du?: Πώς είσαι; + Negation med Δεν" },
+    "explanation": {
+      "en": "To ask 'How are you?': Πώς είσαι; Answers: Είμαι καλά (I'm well), Είμαι πολύ καλά (I'm very well), Έτσι κι έτσι (so-so). To say 'not': put δεν before the verb. Δεν είμαι καλά = I'm not well. Simple!",
+      "sv": "För att fråga 'Hur mår du?': Πώς είσαι; Svar: Είμαι καλά (jag mår bra), Είμαι πολύ καλά (jag mår mycket bra), Έτσι κι έτσι (sådär). För att säga 'inte': sätt δεν före verbet. Δεν είμαι καλά = Jag mår inte bra. Enkelt!"
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "How are you?", "sv": "Hur mår du?" }, "greek": "Πώς είσαι;", "translation": { "en": "How are you?", "sv": "Hur mår du?" } },
+      { "step": 2, "instruction": { "en": "I'm well", "sv": "Jag mår bra" }, "greek": "Είμαι καλά.", "translation": { "en": "I'm well.", "sv": "Jag mår bra." } },
+      { "step": 3, "instruction": { "en": "I'm very well", "sv": "Jag mår mycket bra" }, "greek": "Είμαι πολύ καλά.", "translation": { "en": "I'm very well.", "sv": "Jag mår mycket bra." } },
+      { "step": 4, "instruction": { "en": "So-so", "sv": "Sådär" }, "greek": "Έτσι κι έτσι.", "translation": { "en": "So-so.", "sv": "Sådär." } },
+      { "step": 5, "instruction": { "en": "I'm not well (δεν = not)", "sv": "Jag mår inte bra (δεν = inte)" }, "greek": "Δεν είμαι καλά.", "translation": { "en": "I'm not well.", "sv": "Jag mår inte bra." } }
+    ],
+    "examples": [
+      {
+        "greek": "Δεν είμαι καλά.",
+        "translation": { "en": "I'm not well.", "sv": "Jag mår inte bra." },
+        "breakdown": [
+          { "part": "Δεν", "label": { "en": "not (negation particle)", "sv": "inte (negationspartikel)" } },
+          { "part": "είμαι", "label": { "en": "I am", "sv": "jag är" } },
+          { "part": "καλά", "label": { "en": "well/fine", "sv": "bra" } }
+        ]
+      },
+      {
+        "greek": "Είμαι πολύ καλά!",
+        "translation": { "en": "I'm very well!", "sv": "Jag mår mycket bra!" },
+        "breakdown": [
+          { "part": "Είμαι", "label": { "en": "I am", "sv": "Jag är" } },
+          { "part": "πολύ", "label": { "en": "very/much", "sv": "mycket" } },
+          { "part": "καλά", "label": { "en": "well", "sv": "bra" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Greek negation works just like Swedish! Swedish: Jag mår INTE bra. Greek: ΔΕΝ είμαι καλά. Both put the 'not' word right before the verb. Easy pattern to remember!"
+  },
+  "drills": [
+    {
+      "id": "d-w1c2l5-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: How are you?", "sv": "Översätt till grekiska: Hur mår du?" },
+      "correctAnswer": "Πώς είσαι;",
+      "acceptableAnswers": ["Πώς είσαι;", "Πώς είσαι", "πώς είσαι;"],
+      "hint": { "en": "Πώς (how) + είσαι (are you)...", "sv": "Πώς (hur) + είσαι (mår du)..." },
+      "context": "How are you?",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l5-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: I am well.", "sv": "Översätt till grekiska: Jag mår bra." },
+      "correctAnswer": "Είμαι καλά.",
+      "acceptableAnswers": ["Είμαι καλά.", "Είμαι καλά", "είμαι καλά"],
+      "hint": { "en": "Είμαι + καλά...", "sv": "Είμαι + καλά..." },
+      "context": "I am well.",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l5-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: I am not well.", "sv": "Översätt till grekiska: Jag mår inte bra." },
+      "correctAnswer": "Δεν είμαι καλά.",
+      "acceptableAnswers": ["Δεν είμαι καλά.", "Δεν είμαι καλά", "δεν είμαι καλά"],
+      "hint": { "en": "Δεν (not) + είμαι + καλά...", "sv": "Δεν (inte) + είμαι + καλά..." },
+      "context": "I am not well.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l5-004",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Έτσι κι έτσι.",
+      "correctAnswer": "So-so.",
+      "acceptableAnswers": ["So-so.", "So-so", "So so", "Sådär"],
+      "hint": { "en": "Not great, not terrible...", "sv": "Inte bra, inte dåligt..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l5-005",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the negation word:", "sv": "Fyll i nekningsordet:" },
+      "context": "___ είμαι καλά σήμερα.",
+      "blankedWord": "Δεν",
+      "correctAnswer": "Δεν",
+      "acceptableAnswers": ["Δεν", "δεν"],
+      "hint": { "en": "The word for 'not' in Greek...", "sv": "Ordet för 'inte' på grekiska..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l5-006",
+      "type": "free_typing",
+      "prompt": { "en": "Someone asks: Πώς είσαι; You are very well. Answer!", "sv": "Någon frågar: Πώς είσαι; Du mår mycket bra. Svara!" },
+      "correctAnswer": "Είμαι πολύ καλά!",
+      "acceptableAnswers": ["Είμαι πολύ καλά!", "Είμαι πολύ καλά", "είμαι πολύ καλά", "Πολύ καλά!"],
+      "hint": { "en": "Είμαι + πολύ (very) + καλά (well)...", "sv": "Είμαι + πολύ (mycket) + καλά (bra)..." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l5-007",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'Where are you from?' in Greek?", "sv": "Repetition: Hur säger man 'Var kommer du ifrån?' på grekiska?" },
+      "correctAnswer": "Από πού είσαι;",
+      "acceptableAnswers": ["Από πού είσαι;", "Από πού είσαι", "από πού είσαι;"],
+      "hint": { "en": "Από (from) + πού (where) + είσαι (are you)...", "sv": "Από (från) + πού (var) + είσαι (är du)..." },
+      "context": "Where are you from?",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l5-008",
+      "type": "cloze",
+      "prompt": { "en": "Review: Fill in — This is Maria (female).", "sv": "Repetition: Fyll i — Det här är Maria (kvinna)." },
+      "context": "___ είναι η Μαρία.",
+      "blankedWord": "Αυτή",
+      "correctAnswer": "Αυτή",
+      "acceptableAnswers": ["Αυτή", "αυτή"],
+      "hint": { "en": "Feminine 'this/she'...", "sv": "Feminint 'den här/hon'..." },
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c2l5-001", "d-w1c2l5-002", "d-w1c2l5-003", "d-w1c2l5-004"]
+  },
+  "newVocabulary": [
+    "v-kala-001",
+    "v-poli-001",
+    "v-den-001",
+    "v-etsi-ki-etsi-001"
+  ],
+  "newGrammarIds": ["gr-pos-eisai-001"],
+  "idiom": null
+}

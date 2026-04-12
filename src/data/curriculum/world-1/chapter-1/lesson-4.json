@@ -1,0 +1,160 @@
+{
+  "id": "w1-c1-l4",
+  "chapterId": "w1-c1",
+  "number": 4,
+  "title": { "en": "Your First Words", "sv": "Dina första ord" },
+  "titleGreek": "Οι πρώτες λέξεις σου",
+  "estimatedMinutes": 12,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ βγαίνει από το μετρό. Ένας άντρας λέει: «Γεια σου!»",
+        "english": "Alex exits the metro. A man says: \"Hello!\"",
+        "swedish": "Alex går ut från tunnelbanan. En man säger: \"Hej!\"",
+        "highlightWords": ["v-geia-001", "v-geia-sou-001"],
+        "speakerNote": "Alex hears his first Greek greeting on the street"
+      },
+      {
+        "greek": "Ο Αλεξ απαντάει: «Γεια σου! Ευχαριστώ!» Ο άντρας χαμογελάει: «Παρακαλώ!»",
+        "english": "Alex replies: \"Hello! Thank you!\" The man smiles: \"You're welcome!\"",
+        "swedish": "Alex svarar: \"Hej! Tack!\" Mannen ler: \"Varsågod!\"",
+        "highlightWords": ["v-efcharisto-001", "v-parakalo-001"],
+        "speakerNote": "Alex uses his first real Greek words in conversation"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Τι λέει ο Αλεξ;",
+        "question": { "en": "What does Alex say?", "sv": "Vad säger Alex?" },
+        "answerGreek": "Γεια σου! Ευχαριστώ!",
+        "answer": { "en": "Hello! Thank you!", "sv": "Hej! Tack!" }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-firstwords-001",
+    "title": { "en": "Essential Words: Greetings & Courtesy", "sv": "Viktiga ord: Hälsningar och artighet" },
+    "explanation": {
+      "en": "These four words will get you through almost any situation! Γεια (ya) is the casual 'hi/bye'. Γεια σου (ya su) is 'hello/goodbye' to one person. Ευχαριστώ (ef-ha-ri-STO) is 'thank you'. Παρακαλώ (pa-ra-ka-LO) means both 'please' and 'you're welcome'.",
+      "sv": "Dessa fyra ord hjälper dig i nästan alla situationer! Γεια (ya) är det avslappnade 'hej/hejdå'. Γεια σου (ya su) är 'hej/hejdå' till en person. Ευχαριστώ (ef-ha-ri-STO) är 'tack'. Παρακαλώ (pa-ra-ka-LO) betyder både 'snälla' och 'varsågod'."
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "Hi / Bye (casual)", "sv": "Hej / Hejdå (avslappnat)" }, "greek": "Γεια!", "translation": { "en": "Hi! / Bye!", "sv": "Hej! / Hejdå!" } },
+      { "step": 2, "instruction": { "en": "Hello / Goodbye (to one person)", "sv": "Hej / Hejdå (till en person)" }, "greek": "Γεια σου!", "translation": { "en": "Hello! / Goodbye!", "sv": "Hej! / Hejdå!" } },
+      { "step": 3, "instruction": { "en": "Thank you", "sv": "Tack" }, "greek": "Ευχαριστώ!", "translation": { "en": "Thank you!", "sv": "Tack!" } },
+      { "step": 4, "instruction": { "en": "Please / You're welcome", "sv": "Snälla / Varsågod" }, "greek": "Παρακαλώ!", "translation": { "en": "Please! / You're welcome!", "sv": "Snälla! / Varsågod!" } }
+    ],
+    "examples": [
+      {
+        "greek": "Γεια σου! Ευχαριστώ!",
+        "translation": { "en": "Hello! Thank you!", "sv": "Hej! Tack!" },
+        "breakdown": [
+          { "part": "Γεια σου", "label": { "en": "Hello (to one person)", "sv": "Hej (till en person)" } },
+          { "part": "Ευχαριστώ", "label": { "en": "Thank you", "sv": "Tack" } }
+        ]
+      },
+      {
+        "greek": "Παρακαλώ!",
+        "translation": { "en": "You're welcome! / Please!", "sv": "Varsågod! / Snälla!" },
+        "breakdown": [
+          { "part": "Παρακαλώ", "label": { "en": "Has two meanings depending on context", "sv": "Har två betydelser beroende på sammanhang" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Greek παρακαλώ works like Swedish 'varsågod' — it can mean both 'please' (when asking) and 'you're welcome' (when responding to thanks). Two jobs, one word!"
+  },
+  "drills": [
+    {
+      "id": "d-w1c1l4-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'hello' to one person in Greek?", "sv": "Hur säger man 'hej' till en person på grekiska?" },
+      "correctAnswer": "Γεια σου!",
+      "acceptableAnswers": ["Γεια σου!", "Γεια σου", "γεια σου"],
+      "hint": { "en": "Γεια + σου (your)...", "sv": "Γεια + σου (din)..." },
+      "context": "hello (to one person)",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l4-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'thank you' in Greek?", "sv": "Hur säger man 'tack' på grekiska?" },
+      "correctAnswer": "ευχαριστώ",
+      "acceptableAnswers": ["ευχαριστώ", "Ευχαριστώ", "ευχαριστω", "Ευχαριστω"],
+      "hint": { "en": "It starts with ευχ...", "sv": "Det börjar med ευχ..." },
+      "context": "thank you",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c1l4-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "How do you say 'please' or 'you're welcome' in Greek?", "sv": "Hur säger man 'snälla' eller 'varsågod' på grekiska?" },
+      "correctAnswer": "παρακαλώ",
+      "acceptableAnswers": ["παρακαλώ", "Παρακαλώ", "παρακαλω"],
+      "hint": { "en": "One word for both 'please' and 'you're welcome'.", "sv": "Ett ord för både 'snälla' och 'varsågod'." },
+      "context": "please / you're welcome",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c1l4-004",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Γεια σου! Ευχαριστώ πολύ!",
+      "correctAnswer": "Hello! Thank you very much!",
+      "acceptableAnswers": ["Hello! Thank you very much!", "Hi! Thank you very much!", "Hello! Thanks a lot!"],
+      "hint": { "en": "Γεια σου = Hello, Ευχαριστώ = Thank you, πολύ = very much", "sv": "Γεια σου = Hej, Ευχαριστώ = Tack, πολύ = så mycket" },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l4-005",
+      "type": "free_typing",
+      "prompt": { "en": "Someone says 'Ευχαριστώ!' to you. How do you respond?", "sv": "Någon säger 'Ευχαριστώ!' till dig. Hur svarar du?" },
+      "correctAnswer": "Παρακαλώ!",
+      "acceptableAnswers": ["Παρακαλώ!", "Παρακαλώ", "παρακαλώ"],
+      "hint": { "en": "The word that means 'you're welcome'...", "sv": "Ordet som betyder 'varsågod'..." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c1l4-006",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the greeting:", "sv": "Fyll i hälsningen:" },
+      "context": "___ σου! Πώς είσαι;",
+      "blankedWord": "Γεια",
+      "correctAnswer": "Γεια",
+      "acceptableAnswers": ["Γεια", "γεια"],
+      "hint": { "en": "The casual Greek greeting...", "sv": "Den avslappnade grekiska hälsningen..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l4-007",
+      "type": "translation_g2e",
+      "prompt": { "en": "Review: What does this word mean?", "sv": "Repetition: Vad betyder detta ord?" },
+      "promptGreek": "πόρτα",
+      "correctAnswer": "door",
+      "acceptableAnswers": ["door", "Door", "dörr"],
+      "hint": { "en": "Something you open to enter a room.", "sv": "Något du öppnar för att gå in i ett rum." },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l4-008",
+      "type": "translation_g2e",
+      "prompt": { "en": "Review: What sound does the Greek letter Β make?", "sv": "Repetition: Vilket ljud gör den grekiska bokstaven Β?" },
+      "promptGreek": "Β",
+      "correctAnswer": "v",
+      "acceptableAnswers": ["v", "V"],
+      "hint": { "en": "It looks like B but sounds like...", "sv": "Det ser ut som B men låter som..." },
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c1l4-001", "d-w1c1l4-002", "d-w1c1l4-003"]
+  },
+  "newVocabulary": [
+    "v-geia-001",
+    "v-geia-sou-001",
+    "v-efcharisto-001",
+    "v-parakalo-001"
+  ],
+  "newGrammarIds": ["gr-firstwords-001"],
+  "idiom": null
+}

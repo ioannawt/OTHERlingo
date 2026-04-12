@@ -1,0 +1,140 @@
+{
+  "id": "w1-c1-l1",
+  "chapterId": "w1-c1",
+  "number": 1,
+  "title": { "en": "The Greek Alphabet Part 1", "sv": "Det grekiska alfabetet del 1" },
+  "titleGreek": "Το ελληνικό αλφάβητο 1",
+  "estimatedMinutes": 10,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ φτάνει στην Αθήνα. Βλέπει σημάδια παντού: ΑΕΡΟΔΡΟΜΙΟ, ΑΘΗΝΑ, ΕΞΟΔΟΣ.",
+        "english": "Alex arrives in Athens. He sees signs everywhere: AIRPORT, ATHENS, EXIT.",
+        "swedish": "Alex anländer i Aten. Han ser skyltar överallt: FLYGPLATS, ATEN, UTGÅNG.",
+        "highlightWords": ["v-aerodromio-001", "v-athina-001"],
+        "speakerNote": "Narrator introduces Alex arriving in Greece"
+      },
+      {
+        "greek": "Τα γράμματα είναι διαφορετικά! Α, Ε, Η, Ι, Ο — αυτά είναι τα φωνήεντα.",
+        "english": "The letters are different! A, E, I, I, O — these are the vowels.",
+        "swedish": "Bokstäverna är annorlunda! A, E, I, I, O — det är vokalerna.",
+        "highlightWords": [],
+        "speakerNote": "Alex notices the Greek letters for the first time"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Πού φτάνει ο Αλεξ;",
+        "question": { "en": "Where does Alex arrive?", "sv": "Var anländer Alex?" },
+        "answerGreek": "Στην Αθήνα.",
+        "answer": { "en": "In Athens.", "sv": "I Aten." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-vowels-001",
+    "title": { "en": "Greek Vowels: Α, Ε, Η, Ι, Ο", "sv": "Grekiska vokaler: Α, Ε, Η, Ι, Ο" },
+    "explanation": {
+      "en": "Greek has 5 main vowel letters. Some will look familiar! Α sounds like 'a' in 'father'. Ε sounds like 'e' in 'bed'. Η sounds like 'ee' in 'see' (not like English H!). Ι also sounds like 'ee'. Ο sounds like 'o' in 'or'.",
+      "sv": "Grekiska har 5 huvudvokaler. Några ser bekanta ut! Α låter som 'a' i 'far'. Ε låter som 'e' i 'hej'. Η låter som 'i' i 'bil' (inte som engelskt H!). Ι låter också som 'i'. Ο låter som 'o' i 'sol'."
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "The letter Α / α", "sv": "Bokstaven Α / α" }, "greek": "Α α — Αθήνα", "translation": { "en": "A a — Athens", "sv": "A a — Aten" } },
+      { "step": 2, "instruction": { "en": "The letter Ε / ε", "sv": "Bokstaven Ε / ε" }, "greek": "Ε ε — Ελλάδα", "translation": { "en": "E e — Greece", "sv": "E e — Grekland" } },
+      { "step": 3, "instruction": { "en": "The letter Η / η (sounds like 'ee'!)", "sv": "Bokstaven Η / η (låter som 'i'!)" }, "greek": "Η η — Ήλιος", "translation": { "en": "I i — Sun", "sv": "I i — Sol" } },
+      { "step": 4, "instruction": { "en": "The letter Ι / ι", "sv": "Bokstaven Ι / ι" }, "greek": "Ι ι — Ιταλία", "translation": { "en": "I i — Italy", "sv": "I i — Italien" } },
+      { "step": 5, "instruction": { "en": "The letter Ο / ο", "sv": "Bokstaven Ο / ο" }, "greek": "Ο ο — Οχι", "translation": { "en": "O o — No", "sv": "O o — Nej" } }
+    ],
+    "examples": [
+      {
+        "greek": "ΑΕΡΟΔΡΟΜΙΟ",
+        "translation": { "en": "Airport", "sv": "Flygplats" },
+        "breakdown": [
+          { "part": "Α-Ε-ΡΟ-ΔΡΟ-ΜΙ-Ο", "label": { "en": "Notice the vowels: Α, Ε, Ο, Ο, Ι, Ο", "sv": "Lägg märke till vokalerna: Α, Ε, Ο, Ο, Ι, Ο" } }
+        ]
+      },
+      {
+        "greek": "ΑΘΗΝΑ",
+        "translation": { "en": "Athens", "sv": "Aten" },
+        "breakdown": [
+          { "part": "Α-ΘΗ-ΝΑ", "label": { "en": "Vowels: Α, Η, Α — remember Η = 'ee' sound", "sv": "Vokaler: Α, Η, Α — kom ihåg Η = 'i'-ljud" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Swedish and Greek share the vowel letters A, E, I, O. The tricky one is Η — it looks like English H but sounds like Swedish 'i' in 'bil'. Think of it as a hidden vowel!"
+  },
+  "drills": [
+    {
+      "id": "d-w1c1l1-001",
+      "type": "translation_g2e",
+      "prompt": { "en": "What sound does this Greek letter make?", "sv": "Vilket ljud gör denna grekiska bokstav?" },
+      "promptGreek": "Α",
+      "correctAnswer": "a",
+      "acceptableAnswers": ["a", "A", "ah"],
+      "hint": { "en": "Think of the 'a' in 'father'.", "sv": "Tänk på 'a' i 'far'." },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l1-002",
+      "type": "translation_g2e",
+      "prompt": { "en": "What sound does the Greek letter Η make? (Careful — it's NOT like English H!)", "sv": "Vilket ljud gör den grekiska bokstaven Η? (Obs — det är INTE som engelskt H!)" },
+      "promptGreek": "Η",
+      "correctAnswer": "ee",
+      "acceptableAnswers": ["ee", "i", "ih"],
+      "hint": { "en": "It sounds like 'ee' in 'see'.", "sv": "Det låter som 'i' i 'bil'." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l1-003",
+      "type": "translation_e2g",
+      "prompt": { "en": "Which Greek word means 'yes'?", "sv": "Vilket grekiskt ord betyder 'ja'?" },
+      "correctAnswer": "ναι",
+      "acceptableAnswers": ["ναι", "Ναι"],
+      "hint": { "en": "It sounds like 'neh' — confusing, but ναι means yes!", "sv": "Det låter som 'ne' — förvirrande, men ναι betyder ja!" },
+      "context": "yes",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l1-004",
+      "type": "translation_e2g",
+      "prompt": { "en": "Which Greek word means 'no'?", "sv": "Vilket grekiskt ord betyder 'nej'?" },
+      "correctAnswer": "όχι",
+      "acceptableAnswers": ["όχι", "Όχι", "οχι"],
+      "hint": { "en": "It starts with ό...", "sv": "Det börjar med ό..." },
+      "context": "no",
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l1-005",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "Αθήνα",
+      "correctAnswer": "Athens",
+      "acceptableAnswers": ["Athens", "athens", "Aten"],
+      "hint": { "en": "It's the capital of Greece.", "sv": "Det är Greklands huvudstad." },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l1-006",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this word mean? Try to sound out the vowels.", "sv": "Vad betyder detta ord? Försök ljuda ut vokalerna." },
+      "promptGreek": "αεροδρόμιο",
+      "correctAnswer": "airport",
+      "acceptableAnswers": ["airport", "Airport", "flygplats"],
+      "hint": { "en": "Think 'aero' + 'drome' — a place for planes!", "sv": "Tänk 'aero' + 'drom' — en plats för flygplan!" },
+      "xpBase": 10
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 60,
+    "drillIds": ["d-w1c1l1-001", "d-w1c1l1-002"]
+  },
+  "newVocabulary": [
+    "v-aerodromio-001",
+    "v-athina-001",
+    "v-nai-001",
+    "v-ochi-001"
+  ],
+  "newGrammarIds": ["gr-vowels-001"],
+  "idiom": null
+}

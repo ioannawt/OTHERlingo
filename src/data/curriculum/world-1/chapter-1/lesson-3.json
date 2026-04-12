@@ -1,0 +1,167 @@
+{
+  "id": "w1-c1-l3",
+  "chapterId": "w1-c1",
+  "number": 3,
+  "title": { "en": "Reading Greek", "sv": "Att läsa grekiska" },
+  "titleGreek": "Διαβάζω ελληνικά",
+  "estimatedMinutes": 12,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Ο Αλεξ είναι στο μετρό. Βλέπει τα ονόματα των σταθμών: ΣΥΝΤΑΓΜΑ, ΠΑΝΕΠΙΣΤΗΜΙΟ, ΟΜΟΝΟΙΑ.",
+        "english": "Alex is on the metro. He sees the station names: SYNTAGMA, PANEPISTIMIO, OMONIA.",
+        "swedish": "Alex är i tunnelbanan. Han ser stationsnamnen: SYNTAGMA, PANEPISTIMIO, OMONIA.",
+        "highlightWords": ["v-stathmos-001"],
+        "speakerNote": "Alex tries reading station names on the metro"
+      },
+      {
+        "greek": "Τώρα μπορεί να διαβάσει περισσότερα: πόρτα, βιβλίο, δρόμος. Τα ελληνικά γίνονται πιο εύκολα!",
+        "english": "Now he can read more: door, book, road. Greek is getting easier!",
+        "swedish": "Nu kan han läsa mer: dörr, bok, väg. Grekiskan blir lättare!",
+        "highlightWords": ["v-porta-001", "v-vivlio-001", "v-dromos-001"],
+        "speakerNote": "Alex gains confidence reading Greek words"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Πού είναι ο Αλεξ;",
+        "question": { "en": "Where is Alex?", "sv": "Var är Alex?" },
+        "answerGreek": "Στο μετρό.",
+        "answer": { "en": "On the metro.", "sv": "I tunnelbanan." }
+      },
+      {
+        "questionGreek": "Τι διαβάζει ο Αλεξ;",
+        "question": { "en": "What does Alex read?", "sv": "Vad läser Alex?" },
+        "answerGreek": "Τα ονόματα των σταθμών.",
+        "answer": { "en": "The station names.", "sv": "Stationsnamnen." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-consonants2-001",
+    "title": { "en": "More Consonants: Π, Ρ, Τ, Β, Γ, Δ", "sv": "Fler konsonanter: Π, Ρ, Τ, Β, Γ, Δ" },
+    "explanation": {
+      "en": "Six more consonants! Some look like letters you know but sound DIFFERENT. Π = P (not pi!). Ρ = R (not P!). Τ = T. Now the tricky ones: Β = V sound (not B!). Γ = soft G/Y sound. Δ = 'th' as in 'this' (not D!).",
+      "sv": "Sex konsonanter till! Några ser ut som bokstäver du känner igen men låter ANNORLUNDA. Π = P. Ρ = R (inte P!). Τ = T. Nu de knepiga: Β = V-ljud (inte B!). Γ = mjukt G/J-ljud. Δ = 'th' som i engelska 'this' (inte D!)."
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "Π / π = P sound", "sv": "Π / π = P-ljud" }, "greek": "Π π — πόρτα", "translation": { "en": "door", "sv": "dörr" } },
+      { "step": 2, "instruction": { "en": "Ρ / ρ = R sound (rolled!)", "sv": "Ρ / ρ = R-ljud (rullande!)" }, "greek": "Ρ ρ — δρόμος", "translation": { "en": "road", "sv": "väg" } },
+      { "step": 3, "instruction": { "en": "Τ / τ = T sound", "sv": "Τ / τ = T-ljud" }, "greek": "Τ τ — ταξί", "translation": { "en": "taxi", "sv": "taxi" } },
+      { "step": 4, "instruction": { "en": "Β / β = V sound (not B!)", "sv": "Β / β = V-ljud (inte B!)" }, "greek": "Β β — βιβλίο", "translation": { "en": "book", "sv": "bok" } },
+      { "step": 5, "instruction": { "en": "Γ / γ = soft G/Y sound", "sv": "Γ / γ = mjukt G/J-ljud" }, "greek": "Γ γ — γάτα", "translation": { "en": "cat", "sv": "katt" } },
+      { "step": 6, "instruction": { "en": "Δ / δ = 'th' sound (as in 'this')", "sv": "Δ / δ = 'th'-ljud (som i engelska 'this')" }, "greek": "Δ δ — δρόμος", "translation": { "en": "road", "sv": "väg" } }
+    ],
+    "examples": [
+      {
+        "greek": "πόρτα",
+        "translation": { "en": "door", "sv": "dörr" },
+        "breakdown": [
+          { "part": "π (p) + ό (o) + ρ (r) + τ (t) + α (a)", "label": { "en": "= por-ta", "sv": "= por-ta" } }
+        ]
+      },
+      {
+        "greek": "βιβλίο",
+        "translation": { "en": "book", "sv": "bok" },
+        "breakdown": [
+          { "part": "β (v) + ι (i) + β (v) + λ (l) + ί (i) + ο (o)", "label": { "en": "= vi-vli-o (remember β = V!)", "sv": "= vi-vli-o (kom ihåg β = V!)" } }
+        ]
+      }
+    ],
+    "swedishParallel": "The biggest traps for Swedish speakers: Β looks like B but sounds like V. Δ looks like a triangle but sounds like English 'th' in 'the'. And Ρ looks like P but is actually R! Practice these three and you'll avoid the most common mistakes."
+  },
+  "drills": [
+    {
+      "id": "d-w1c1l3-001",
+      "type": "translation_g2e",
+      "prompt": { "en": "What sound does the Greek letter Β make?", "sv": "Vilket ljud gör den grekiska bokstaven Β?" },
+      "promptGreek": "Β",
+      "correctAnswer": "v",
+      "acceptableAnswers": ["v", "V"],
+      "hint": { "en": "It looks like B but sounds different!", "sv": "Det ser ut som B men låter annorlunda!" },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l3-002",
+      "type": "translation_g2e",
+      "prompt": { "en": "What sound does the Greek letter Ρ make?", "sv": "Vilket ljud gör den grekiska bokstaven Ρ?" },
+      "promptGreek": "Ρ",
+      "correctAnswer": "r",
+      "acceptableAnswers": ["r", "R"],
+      "hint": { "en": "It looks like P but it's actually...", "sv": "Det ser ut som P men det är faktiskt..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l3-003",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "πόρτα",
+      "correctAnswer": "door",
+      "acceptableAnswers": ["door", "Door", "dörr"],
+      "hint": { "en": "π=p, ό=o, ρ=r, τ=t, α=a → por-ta", "sv": "π=p, ό=o, ρ=r, τ=t, α=a → por-ta" },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l3-004",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "βιβλίο",
+      "correctAnswer": "book",
+      "acceptableAnswers": ["book", "Book", "bok"],
+      "hint": { "en": "Remember: β = V sound. vi-vli-o.", "sv": "Kom ihåg: β = V-ljud. vi-vli-o." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l3-005",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "σταθμός",
+      "correctAnswer": "station",
+      "acceptableAnswers": ["station", "Station"],
+      "hint": { "en": "A place where the metro stops.", "sv": "En plats där tunnelbanan stannar." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l3-006",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this Greek word mean?", "sv": "Vad betyder detta grekiska ord?" },
+      "promptGreek": "δρόμος",
+      "correctAnswer": "road",
+      "acceptableAnswers": ["road", "Road", "street", "väg"],
+      "hint": { "en": "Remember: δ = 'th' sound. thro-mos.", "sv": "Kom ihåg: δ = 'th'-ljud. thro-mos." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c1l3-007",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you say 'yes' in Greek?", "sv": "Repetition: Hur säger man 'ja' på grekiska?" },
+      "correctAnswer": "ναι",
+      "acceptableAnswers": ["ναι", "Ναι"],
+      "hint": { "en": "Sounds like 'neh' but means yes!", "sv": "Låter som 'ne' men betyder ja!" },
+      "context": "yes",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c1l3-008",
+      "type": "translation_g2e",
+      "prompt": { "en": "Review: What does this word mean?", "sv": "Repetition: Vad betyder detta ord?" },
+      "promptGreek": "είσοδος",
+      "correctAnswer": "entrance",
+      "acceptableAnswers": ["entrance", "Entrance", "entry", "ingång"],
+      "hint": { "en": "The opposite of exit.", "sv": "Motsatsen till utgång." },
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c1l3-001", "d-w1c1l3-002", "d-w1c1l3-003", "d-w1c1l3-004"]
+  },
+  "newVocabulary": [
+    "v-stathmos-001",
+    "v-porta-001",
+    "v-vivlio-001",
+    "v-dromos-001"
+  ],
+  "newGrammarIds": ["gr-consonants2-001"],
+  "idiom": null
+}

@@ -1,0 +1,179 @@
+{
+  "id": "w1-c2-l3",
+  "chapterId": "w1-c2",
+  "number": 3,
+  "title": { "en": "Where Are You From?", "sv": "Var kommer du ifrån?" },
+  "titleGreek": "Από πού είσαι;",
+  "estimatedMinutes": 15,
+  "story": {
+    "paragraphs": [
+      {
+        "greek": "Στο ξενοδοχείο, ο Αλεξ γνωρίζει άλλους τουρίστες.",
+        "english": "At the hotel, Alex meets other tourists.",
+        "swedish": "På hotellet träffar Alex andra turister.",
+        "highlightWords": [],
+        "speakerNote": "Narrator"
+      },
+      {
+        "greek": "Νίκος: Γεια σου, Αλεξ! Από πού είσαι; Αλεξ: Είμαι από τη Σουηδία. Εσύ; Νίκος: Είμαι από την Ελλάδα!",
+        "english": "Nikos: Hello, Alex! Where are you from? Alex: I am from Sweden. You? Nikos: I am from Greece!",
+        "swedish": "Nikos: Hej, Alex! Var kommer du ifrån? Alex: Jag är från Sverige. Du då? Nikos: Jag är från Grekland!",
+        "highlightWords": ["v-apo-001", "v-pou-001", "v-souidia-001", "v-ellada-001"],
+        "speakerNote": "Alex talks about where he's from"
+      },
+      {
+        "greek": "Μια γυναίκα λέει: «Γεια σας! Με λένε Σάρα. Είμαι από την Αγγλία.»",
+        "english": "A woman says: \"Hello everyone! My name is Sara. I am from England.\"",
+        "swedish": "En kvinna säger: \"Hej allihopa! Jag heter Sara. Jag är från England.\"",
+        "highlightWords": ["v-agglia-001"],
+        "speakerNote": "Another tourist joins the conversation"
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionGreek": "Από πού είναι ο Αλεξ;",
+        "question": { "en": "Where is Alex from?", "sv": "Var kommer Alex ifrån?" },
+        "answerGreek": "Είναι από τη Σουηδία.",
+        "answer": { "en": "He is from Sweden.", "sv": "Han är från Sverige." }
+      },
+      {
+        "questionGreek": "Από πού είναι η Σάρα;",
+        "question": { "en": "Where is Sara from?", "sv": "Var kommer Sara ifrån?" },
+        "answerGreek": "Είναι από την Αγγλία.",
+        "answer": { "en": "She is from England.", "sv": "Hon är från England." }
+      }
+    ]
+  },
+  "grammarSpotlight": {
+    "ruleId": "gr-apo-pou-001",
+    "title": { "en": "Where Are You From?: Από πού είσαι;", "sv": "Var kommer du ifrån?: Από πού είσαι;" },
+    "explanation": {
+      "en": "To ask where someone is from: Από πού είσαι; (apo PU I-seh). Από = from. Πού = where. To answer: Είμαι από + country. Notice: some countries use τη (τη Σουηδία) and others use την (την Ελλάδα, την Αγγλία) before the name — don't worry about this yet, just learn the phrases!",
+      "sv": "För att fråga var någon kommer ifrån: Από πού είσαι; (apo PU I-seh). Από = från. Πού = var. Svara: Είμαι από + land. Observera: vissa länder använder τη (τη Σουηδία) och andra την (την Ελλάδα, την Αγγλία) före namnet — oroa dig inte om detta nu, lär dig bara fraserna!"
+    },
+    "buildingBlocks": [
+      { "step": 1, "instruction": { "en": "From", "sv": "Från" }, "greek": "Από", "translation": { "en": "From", "sv": "Från" } },
+      { "step": 2, "instruction": { "en": "Where?", "sv": "Var?" }, "greek": "Πού;", "translation": { "en": "Where?", "sv": "Var?" } },
+      { "step": 3, "instruction": { "en": "Where are you from?", "sv": "Var kommer du ifrån?" }, "greek": "Από πού είσαι;", "translation": { "en": "Where are you from?", "sv": "Var kommer du ifrån?" } },
+      { "step": 4, "instruction": { "en": "I am from Sweden", "sv": "Jag är från Sverige" }, "greek": "Είμαι από τη Σουηδία.", "translation": { "en": "I am from Sweden.", "sv": "Jag är från Sverige." } },
+      { "step": 5, "instruction": { "en": "I am from Greece", "sv": "Jag är från Grekland" }, "greek": "Είμαι από την Ελλάδα.", "translation": { "en": "I am from Greece.", "sv": "Jag är från Grekland." } }
+    ],
+    "examples": [
+      {
+        "greek": "Από πού είσαι;",
+        "translation": { "en": "Where are you from?", "sv": "Var kommer du ifrån?" },
+        "breakdown": [
+          { "part": "Από", "label": { "en": "From", "sv": "Från" } },
+          { "part": "πού", "label": { "en": "where", "sv": "var" } },
+          { "part": "είσαι", "label": { "en": "are you", "sv": "är du" } }
+        ]
+      },
+      {
+        "greek": "Είμαι από τη Σουηδία.",
+        "translation": { "en": "I am from Sweden.", "sv": "Jag är från Sverige." },
+        "breakdown": [
+          { "part": "Είμαι", "label": { "en": "I am", "sv": "Jag är" } },
+          { "part": "από", "label": { "en": "from", "sv": "från" } },
+          { "part": "τη Σουηδία", "label": { "en": "Sweden (with article)", "sv": "Sverige (med artikel)" } }
+        ]
+      }
+    ],
+    "swedishParallel": "Swedish 'Var kommer du ifrån?' splits 'from' to the end (i-från). Greek keeps it at the front: Από πού = From where. The answer pattern is identical: Jag är från Sverige = Είμαι από τη Σουηδία."
+  },
+  "drills": [
+    {
+      "id": "d-w1c2l3-001",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: Where are you from?", "sv": "Översätt till grekiska: Var kommer du ifrån?" },
+      "correctAnswer": "Από πού είσαι;",
+      "acceptableAnswers": ["Από πού είσαι;", "Από πού είσαι", "από πού είσαι;", "από πού είσαι"],
+      "hint": { "en": "Από (from) + πού (where) + είσαι (are you)...", "sv": "Από (från) + πού (var) + είσαι (är du)..." },
+      "context": "Where are you from?",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l3-002",
+      "type": "translation_e2g",
+      "prompt": { "en": "Translate to Greek: I am from Sweden.", "sv": "Översätt till grekiska: Jag är från Sverige." },
+      "correctAnswer": "Είμαι από τη Σουηδία.",
+      "acceptableAnswers": ["Είμαι από τη Σουηδία.", "Είμαι από τη Σουηδία", "Εγώ είμαι από τη Σουηδία.", "είμαι από τη Σουηδία"],
+      "hint": { "en": "Είμαι + από + τη Σουηδία...", "sv": "Είμαι + από + τη Σουηδία..." },
+      "context": "I am from Sweden.",
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l3-003",
+      "type": "cloze",
+      "prompt": { "en": "Fill in the missing word:", "sv": "Fyll i det saknade ordet:" },
+      "context": "Είμαι ___ την Ελλάδα.",
+      "blankedWord": "από",
+      "correctAnswer": "από",
+      "acceptableAnswers": ["από", "Από"],
+      "hint": { "en": "The word meaning 'from'.", "sv": "Ordet som betyder 'från'." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l3-004",
+      "type": "translation_g2e",
+      "prompt": { "en": "What does this mean?", "sv": "Vad betyder detta?" },
+      "promptGreek": "Είμαι από την Αγγλία.",
+      "correctAnswer": "I am from England.",
+      "acceptableAnswers": ["I am from England.", "I am from England", "I'm from England."],
+      "hint": { "en": "Αγγλία = England...", "sv": "Αγγλία = England..." },
+      "xpBase": 10
+    },
+    {
+      "id": "d-w1c2l3-005",
+      "type": "free_typing",
+      "prompt": { "en": "Someone asks: Από πού είσαι; — You are from Greece. Answer!", "sv": "Någon frågar: Από πού είσαι; — Du är från Grekland. Svara!" },
+      "correctAnswer": "Είμαι από την Ελλάδα.",
+      "acceptableAnswers": ["Είμαι από την Ελλάδα.", "Είμαι από την Ελλάδα", "είμαι από την Ελλάδα"],
+      "hint": { "en": "Είμαι από + country...", "sv": "Είμαι από + land..." },
+      "xpBase": 15
+    },
+    {
+      "id": "d-w1c2l3-006",
+      "type": "translation_g2e",
+      "prompt": { "en": "What country is this?", "sv": "Vilket land är detta?" },
+      "promptGreek": "Σουηδία",
+      "correctAnswer": "Sweden",
+      "acceptableAnswers": ["Sweden", "sverige", "Sverige"],
+      "hint": { "en": "Alex's home country.", "sv": "Alex hemland." },
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l3-007",
+      "type": "translation_e2g",
+      "prompt": { "en": "Review: How do you ask 'What's your name?' in Greek?", "sv": "Repetition: Hur frågar man 'Vad heter du?' på grekiska?" },
+      "correctAnswer": "Πώς σε λένε;",
+      "acceptableAnswers": ["Πώς σε λένε;", "Πώς σε λένε", "πώς σε λένε;"],
+      "hint": { "en": "Πώς (how) + σε (you) + λένε (they call)...", "sv": "Πώς (hur) + σε (dig) + λένε (de kallar)..." },
+      "context": "What's your name?",
+      "xpBase": 5
+    },
+    {
+      "id": "d-w1c2l3-008",
+      "type": "cloze",
+      "prompt": { "en": "Review: Fill in the correct form of 'to be':", "sv": "Repetition: Fyll i rätt form av 'att vara':" },
+      "context": "Εσύ ___ ο Νίκος.",
+      "blankedWord": "είσαι",
+      "correctAnswer": "είσαι",
+      "acceptableAnswers": ["είσαι", "εισαι"],
+      "hint": { "en": "The form of 'to be' for 'you'.", "sv": "Formen av 'att vara' för 'du'." },
+      "xpBase": 5
+    }
+  ],
+  "speedRound": {
+    "timeLimit": 90,
+    "drillIds": ["d-w1c2l3-001", "d-w1c2l3-002", "d-w1c2l3-004"]
+  },
+  "newVocabulary": [
+    "v-apo-001",
+    "v-pou-001",
+    "v-souidia-001",
+    "v-ellada-001",
+    "v-agglia-001"
+  ],
+  "newGrammarIds": ["gr-apo-pou-001"],
+  "idiom": null
+}
