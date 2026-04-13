@@ -59,20 +59,20 @@ export default function HomePage() {
               {progress.todayLessonComplete ? '✅' : '📖'}
             </div>
           </div>
-          {!progress.todayLessonComplete && (
-            <Button
-              variant="accent"
-              size="lg"
-              fullWidth
-              className="mt-4"
-              onClick={() => router.push(`/lesson/${progress.currentLessonId}`)}
-            >
-              {progress.completedLessonIds.length === 0
-                ? (lang === 'sv' ? 'Börja lära dig grekiska!' : 'Start learning Greek!')
-                : (lang === 'sv' ? 'Fortsätt' : 'Continue')
-              }
-            </Button>
-          )}
+          <Button
+            variant="accent"
+            size="lg"
+            fullWidth
+            className="mt-4"
+            onClick={() => router.push(`/lesson/${progress.currentLessonId}`)}
+          >
+            {progress.completedLessonIds.length === 0
+              ? (lang === 'sv' ? 'Börja lära dig grekiska!' : 'Start learning Greek!')
+              : progress.todayLessonComplete
+              ? (lang === 'sv' ? 'Nästa lektion' : 'Next lesson')
+              : (lang === 'sv' ? 'Fortsätt' : 'Continue')
+            }
+          </Button>
         </Card>
 
         {/* Quick stats */}
